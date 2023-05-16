@@ -31,4 +31,3 @@ This Will Be Where I Post My Projects To Share With Everyone
 
 [![Gmail](https://img.shields.io/badge/Gmail-cuongnguyen286641%40gmail.com-ff833b?logo=gmail)](https://mail.google.com/mail/u/0/)
 
-end.
