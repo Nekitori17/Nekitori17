@@ -25,7 +25,7 @@ This Will Be Where I Post My Projects To Share With Everyone
 
 # 🌐Social Media
 
-[![Facebook](https://img.shields.io/badge/facebook-%40Nekitori_Hakari-2da1da?logo=facebook)](https://www.facebook.com/profile.php?id=100053207617181)
+[![Facebook](https://img.shields.io/badge/facebook-%40Nekitori_Hakari-2da1da?logo=facebook)](https://www.facebook.com/nekinotfound)
 
 [![YouTube](https://img.shields.io/badge/YouTube-%40nekitori17-f54242?logo=youtube)](https://youtube.com/@nekitori17)
 
