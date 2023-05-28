@@ -20,7 +20,7 @@ And here are the things I will learn and master in the near future XD
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 # ✏️ Edit
 ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
-
+![VScode](https://img.shields.io/badge/Visual%20Studio%20Code-85c6ff.svg?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 # 📊GitHub Stats :
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Nekitori17&theme=blueberry&hide_border=false&include_all_commits=false&count_private=true)
 
