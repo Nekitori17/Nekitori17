@@ -43,4 +43,4 @@ And here are the things I will learn and master in the near future XD
 
 * [![Gmail](https://img.shields.io/badge/Gmail-cuongnguyen286641%40gmail.com-ff833b?logo=gmail)](mailto:cuongnguyen286641@gmail.com)
 
-![Profile Views](https://komarev.com/ghpvc/?username=risbi0&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=Nekitori170&style=for-the-badge)
