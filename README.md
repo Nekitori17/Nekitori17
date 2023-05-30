@@ -23,7 +23,9 @@ And here are the things I will learn and master in the near future XD.
 # 💾Database
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 # 💻 Editor
-![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-692eff.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-692eff.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
+![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-692eff.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) 
+![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-692eff.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
+![Unity](https://img.shields.io/badge/unity-ffffff.svg?style=for-the-badge&logo=unity&logoColor=black)
 ![VScode](https://img.shields.io/badge/Visual%20Studio%20Code-2e9dff.svg?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 # 📊GitHub Stats :
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Nekitori17&theme=blueberry&hide_border=false&include_all_commits=false&count_private=true)
