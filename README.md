@@ -45,7 +45,7 @@ And here are the things I will learn and master in the near future XD.
 
 * [![YouTube](https://img.shields.io/badge/YouTube-%40nekitori17-f54242?logo=youtube)](https://youtube.com/@nekitori17)
 
-* [![Discord](https://img.shields.io/for-the-badge/Discord-Nekitori_Hakari%239949-5865f2?logo=discord)](https://discord.com/channels/@me)
+* [![Discord](https://img.shields.io/badge/Discord-Nekitori_Hakari%239949-5865f2?logo=discord)](https://discord.com/channels/@me)
 
 * [![Gmail](https://img.shields.io/badge/Gmail-cuongnguyen286641%40gmail.com-ff833b?logo=gmail)](mailto:cuongnguyen286641@gmail.com)
 
