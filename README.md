@@ -4,24 +4,18 @@
    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
    <link href="https://fonts.googleapis.com/css2?family=Saira:wght@100&display=swap" rel="stylesheet">
    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@48,400,0,0" />
-   <style>
-     .image {
-        }
-     .image img {
-       
-   </style>
  </head>
  <body>
- <div style="font-family: 'Saira', sans-serif; border-left: 15px solid red; background: rgba(48, 63, 140, 0.7);">
+ <p style="font-family: 'Saira', sans-serif; border-left: 15px solid red; background: rgba(48, 63, 140, 0.7);">
   <img src="/assets/star-rail-kuru.gif" alt="Kuru" width="110px" height="110px" style="display: block; margin-left: auto; margin-right: auto; border-radius: 50%; border: 2px solid rgba(138, 245, 66, 0.4)">
   <h1 style="text-align: center; font-size:1.7rem; color: blue">Nekitori17</h1>
-  <div style="display: flex; flex-wrap: wrap; margin-left: 50px;
+  <p style="display: flex; flex-wrap: wrap; margin-left: 50px;
       ">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/Nekitori17?style=social" style="max-width: 100%; height: auto; margin-right: 10px;">
   <img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/nekitori17?style=social" style="max-width: 100%; height: auto; margin-right: 10px;">
   <img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/@nekitori17?style=social" style="max-width: 100%; height: auto; margin-right: 10px;">
-  </div>
-  <div style="font-size: 1.4rem; text-align: center; align-items: center; margin: 0px;">
+  </p>
+  <p style="font-size: 1.4rem; text-align: center; align-items: center; margin: 0px;">
     <p>Hello Everyone! I'm Nekitori17, I from Vietnam and I am a Front-end developer.
     </p>
     <p>
@@ -33,9 +27,9 @@
     <p>And here are the things I will learn and master in the near future XD.
     </p>
     <a href="https://nekitori17.github.io"><span class="material-symbols-outlined">Language</span>My Website</a>
-  </div>
-  </div>
- </body>
+  </p>
+  </p>
+ </p>
 </html>
 
 # 💬 Language
