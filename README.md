@@ -1,36 +1,17 @@
-<html>
- <head>
-   <link rel="preconnect" href="https://fonts.googleapis.com">
-   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-   <link href="https://fonts.googleapis.com/css2?family=Saira:wght@100&display=swap" rel="stylesheet">
-   <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@48,400,0,0" />
- </head>
- <body>
- <p style="font-family: 'Saira', sans-serif; border-left: 15px solid red; background: rgba(48, 63, 140, 0.7);">
-  <img src="/assets/star-rail-kuru.gif" alt="Kuru" width="110px" height="110px" style="display: block; margin-left: auto; margin-right: auto; border-radius: 50%; border: 2px solid rgba(138, 245, 66, 0.4)">
-  <h1 style="text-align: center; font-size:1.7rem; color: blue">Nekitori17</h1>
-  <p style="display: flex; flex-wrap: wrap; margin-left: 50px;
-      ">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/Nekitori17?style=social" style="max-width: 100%; height: auto; margin-right: 10px;">
-  <img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/nekitori17?style=social" style="max-width: 100%; height: auto; margin-right: 10px;">
-  <img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/@nekitori17?style=social" style="max-width: 100%; height: auto; margin-right: 10px;">
-  </p>
-  <p style="font-size: 1.4rem; text-align: center; align-items: center; margin: 0px;">
-    <p>Hello Everyone! I'm Nekitori17, I from Vietnam and I am a Front-end developer.
-    </p>
-    <p>
-      Right now I'm just entering the programming, so if there's anything wrong, I hope you can teach me.
-    </p>
-    <p>
-      This will be the place where I post my projects and share them with everyone.
-    </p>
-    <p>And here are the things I will learn and master in the near future XD.
-    </p>
-    <a href="https://nekitori17.github.io"><span class="material-symbols-outlined">Language</span>My Website</a>
-  </p>
-  </p>
- </p>
-</html>
+<div align="center" style="background: rgba(0, 0, 0, 0.6) top; border-left: 13px solid red; margin: 0; padding: 0; box-sizing: border-box;">
+  <img src="/assets/star-rail-kuru.gif" width="140" height="140" style="Border: 2px solid lightblue; border-radius: 50%;">
+  <h2 style="Color: Blue;">Nekitori17</h2>
+  <div>
+   <span><img alt="GitHub followers" src="https://img.shields.io/github/followers/nekitori17?style=flat-square"><img alt="GitHub followers" src="https://img.shields.io/github/followers/nekitori17?style=flat-square"><img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/@nekitori17?label=YouTube&style=flat-square"><img alt="GitHub repo file count" src="https://img.shields.io/github/directory-file-count/nekitori17/nekitori17?style=flat-square"></span>
+  </div>
+  <div>
+  <p>Hello Everyone! I'm Nekitori17, I from Vietnam and I am a Front-end developer.</p>
+  <p>Right now I'm just entering the programming, so if there's anything wrong, I hope you can teach me.</p>
+  <p>This will be the place where I post my projects and share them with everyone.</p>
+  <p>And here are the things I will learn and master in the near future XD.</p>
+  </div>
+  <a href="https://Nekitori17.github.io">🔗My Website</a>
+</div>
 
 # 💬 Language
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
