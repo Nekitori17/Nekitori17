@@ -5,7 +5,7 @@
    <span><img alt="GitHub followers" src="https://img.shields.io/github/followers/nekitori17?style=flat-square"><img alt="GitHub followers" src="https://img.shields.io/github/followers/nekitori17?style=flat-square"><img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/@nekitori17?label=YouTube&style=flat-square"><img alt="GitHub repo file count" src="https://img.shields.io/github/directory-file-count/nekitori17/nekitori17?style=flat-square"></span>
   </div>
   <div>
-  <p>Hello Everyone! I'm Nekitori17, I from Vietnam and I am a Front-end developer.</p>
+  <p>Hello Everyone! I'm Nekitori17, I from Vietnam and I am a Front-end developer   (Currently, it is so).</p>
   <p>Right now I'm just entering the programming, so if there's anything wrong, I hope you can teach me.</p>
   <p>This will be the place where I post my projects and share them with everyone.</p>
   <p>And here are the things I will learn and master in the near future XD.</p>
@@ -45,12 +45,12 @@
 ![Trophies](https://github-trophies.vercel.app/?username=Nekitori17&theme=monokai&no-frame=true&no-bg=false&margin-w=4)
 
 # 🌐Social Media
-* [![Facebook](https://img.shields.io/badge/facebook-%40Nekitori_Hakari-2da1da?logo=facebook)](https://www.facebook.com/nekinotfound)
+* [![Facebook](https://img.shields.io/badge/facebook-%40Nekitori_Hakari-2da1da?logo=facebook&style=flat-square)](https://www.facebook.com/nekinotfound)
 
-* [![YouTube](https://img.shields.io/badge/YouTube-%40nekitori17-f54242?logo=youtube)](https://youtube.com/@nekitori17)
+* [![YouTube](https://img.shields.io/badge/YouTube-%40nekitori17-f54242?logo=youtube&style=flat-square)](https://youtube.com/@nekitori17)
 
-* [![Discord](https://img.shields.io/badge/Discord-Nekitori_Hakari%239949-5865f2?logo=discord)](https://discord.com/channels/@me)
+* [![Discord](https://img.shields.io/badge/Discord-Nekitori_Hakari%239949-5865f2?logo=discord&style=flat-square)](https://discord.com/channels/@me)
 
-* [![Gmail](https://img.shields.io/badge/Gmail-cuongnguyen286641%40gmail.com-ff833b?logo=gmail)](mailto:cuongnguyen286641@gmail.com)
-* 
-![Profile Views](https://komarev.com/ghpvc/?username=Nekitori170&style=for-the-badge)
+* [![Gmail](https://img.shields.io/badge/Gmail-cuongnguyen286641%40gmail.com-ff833b?logo=gmail&style=flat-square)](mailto:cuongnguyen286641@gmail.com)
+
+<p align="center"><img src="https://komarev.com/ghpvc/?username=nekitori17&style=for-the-badge" alt="Visit Counter.bmp"></p>
