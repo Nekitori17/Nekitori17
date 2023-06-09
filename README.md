@@ -2,7 +2,7 @@
   <img src="/assets/star-rail-kuru.gif" width="140" height="140">
   <h2 style="Color: Blue;">Nekitori17</h2>
   <div>
-   <span><img alt="GitHub followers" src="https://img.shields.io/github/followers/nekitori17?style=flat-square"><img alt="GitHub followers" src="https://img.shields.io/github/followers/nekitori17?style=flat-square"><img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/@nekitori17?label=YouTube&style=flat-square"><img alt="GitHub repo file count" src="https://img.shields.io/github/directory-file-count/nekitori17/nekitori17?style=flat-square"></span>
+   <span><img alt="GitHub followers" src="https://img.shields.io/github/followers/nekitori17?label=Github%20Following&style=flat-square"><img alt="GitHub Start" src="https://img.shields.io/github/stars/nekitori17?label=Github%20Star&style=flat-square"><img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/@nekitori17?label=YouTube%20Subcriber&style=flat-square"><img alt="GitHub repo file count" src="https://img.shields.io/github/directory-file-count/nekitori17/nekitori17?style=flat-square"></span>
   </div>
   <div>
   <p>Hello Everyone! I'm Nekitori17, I from Vietnam and I am a Front-end developer   (Currently, it is so).</p>
