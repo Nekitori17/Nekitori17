@@ -1,4 +1,3 @@
-<h1>
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Saira&duration=3700&pause=1000&color=006EF7&center=true&width=435&lines=Hello%2C+Guys!;Welcome+To+My+Page" alt="Typing SVG"></p>
 <div align="center">
   <img src="/assets/star-rail-kuru.gif" width="140" height="140" alt="kuru kuru.png">
@@ -14,7 +13,6 @@
   </div>
   <a href="https://Nekitori17.github.io">🔗My Website</a>
 </div>
-</h1>
 ## ⬅️ Front-end
 [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/Nekitori17)
 [![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/Nekitori17)
