@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:c7fdff,100:c7e8ff&height=150&text=Github&desc=.inc&animation=twinkling&fontColor=3b76ff&fontSize=40&fontAlignY=25&rotate=1&descAlignY=45&descAlign=57" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:c7fdff,100:8a70ff&height=150&text=Github&desc=.inc&animation=twinkling&fontColor=3b76ff&fontSize=40&fontAlignY=25&rotate=1&descAlignY=45&descAlign=57" width="100%">
 <h4 align="center">
  <img src="https://readme-typing-svg.herokuapp.com?font=Saira&duration=3700&pause=1000&color=006EF7&center=true&width=435&lines=Hello%2C+Guys!;Welcome+To+My+Page" alt="Typing Svg">
  <div align="center">
@@ -16,7 +16,7 @@
   <a href="https://Nekitori17.github.io" style="text-decoration: none; Color: #c5ffa8">🔗My Website</a>
  </div>
 </h4>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:c7fdff,100:c7e8ff&height=150&section=footer&reversal=true" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:c7fdff,100:bf75ff&height=150&section=footer&reversal=true" width="100%">
 
 ## ⬅️ Front-end
 
