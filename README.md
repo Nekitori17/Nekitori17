@@ -2,7 +2,7 @@
 <h4 align="center">
  <img src="https://readme-typing-svg.herokuapp.com?font=Saira&duration=3700&pause=1000&color=006EF7&center=true&width=435&lines=Hello%2C+Guys!;Welcome+To+My+Page" alt="Typing Svg">
  <div align="center">
-  <img src="/assets/star-rail-kuru.gif" width="150" height="150" alt="kuru kuru.png" style="border: 2px dashed lightblue; border-radius: 50%">
+  <img src="/assets/star-rail-kuru.gif" width="150" height="150" alt="kuru kuru.png" style="border: 2px solid lightblue; border-radius: 50%">
   <p><img src="https://readme-typing-svg.herokuapp.com?font=Saira&duration=3000&pause=1000&color=ff9eb3&center=true&vCenter=true&width=300&lines=Nekitori17;Nekitori+Hakari;Nguy%E1%BB%85n+Ng%E1%BB%8Dc+C%C6%B0%E1%BB%9Dng" alt="Typing SVG" style="box-shadow: 0 0 15px red"></p>
   <div>
    <span><img alt="GitHub followers" src="https://img.shields.io/github/followers/nekitori17?label=Github%20Following&style=flat-square"><img alt="GitHub Start" src="https://img.shields.io/github/stars/nekitori17?label=Github%20Star&style=flat-square" style="margin: 0 3% 0 3%">
