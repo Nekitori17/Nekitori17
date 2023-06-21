@@ -33,7 +33,6 @@
 [![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-692eff.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)](https://github.com/Nekitori17)
 [![Animate](https://img.shields.io/badge/Adobe%20Animate-ff4545.svg?style=for-the-badge&logo=Adobe&logoColor=white)](https://github.com/Nekitori17)
 [![Blender](https://img.shields.io/badge/Blender-ffaa4f.svg?style=for-the-badge&logo=blender&logoColor=White)](https://github.com/Nekitori17)
-[![Unity](https://img.shields.io/badge/Unreal%20Engine-000000.svg?style=for-the-badge&logo=unreal%20engine&logoColor=white)](https://github.com/Nekitori17)
 [![VScode](https://img.shields.io/badge/Visual%20Studio%20Code-2e9dff.svg?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)](https://github.com/Nekitori17)
 ## 📊 GitHub Stats :
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=Nekitori17&theme=gruvbox&hide_border=true&include_all_commits=false&count_private=false)](https://github.com/Nekitori17)
