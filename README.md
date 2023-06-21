@@ -1,4 +1,4 @@
-<p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Saira&duration=3700&pause=1000&color=006EF7&center=true&width=435&lines=Hello%2C+Guys!;Welcome+To+My+Page" alt="Typing SVG"></p>
+<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Saira&duration=3700&pause=1000&color=006EF7&center=true&width=435&lines=Hello%2C+Guys!;Welcome+To+My+Page" alt="Typing SVG"></h1>
 <div align="center">
   <img src="/assets/star-rail-kuru.gif" width="140" height="140" alt="kuru kuru.png">
   <p><img src="https://readme-typing-svg.herokuapp.com?font=Saira&duration=3000&pause=1000&color=006EF7&center=true&vCenter=true&width=435&lines=Nekitori17;Nekitori+Hakari;Nguy%E1%BB%85n+Ng%E1%BB%8Dc+C%C6%B0%E1%BB%9Dng" alt="Typing SVG"></p>
