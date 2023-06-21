@@ -1,4 +1,5 @@
-<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Saira&duration=3700&pause=1000&color=006EF7&center=true&width=435&lines=Hello%2C+Guys!;Welcome+To+My+Page" alt="Typing SVG"></h1>
+<h1>
+<p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Saira&duration=3700&pause=1000&color=006EF7&center=true&width=435&lines=Hello%2C+Guys!;Welcome+To+My+Page" alt="Typing SVG"></p>
 <div align="center">
   <img src="/assets/star-rail-kuru.gif" width="140" height="140" alt="kuru kuru.png">
   <p><img src="https://readme-typing-svg.herokuapp.com?font=Saira&duration=3000&pause=1000&color=006EF7&center=true&vCenter=true&width=435&lines=Nekitori17;Nekitori+Hakari;Nguy%E1%BB%85n+Ng%E1%BB%8Dc+C%C6%B0%E1%BB%9Dng" alt="Typing SVG"></p>
@@ -13,7 +14,7 @@
   </div>
   <a href="https://Nekitori17.github.io">🔗My Website</a>
 </div>
-
+</h1>
 ## ⬅️ Front-end
 [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/Nekitori17)
 [![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/Nekitori17)
