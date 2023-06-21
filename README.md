@@ -1,20 +1,20 @@
-<body align="center" style="">
- <img src="https://readme-typing-svg.herokuapp.com?font=Saira&duration=3700&pause=1000&color=006EF7&center=true&width=435&lines=Hello%2C+Guys!;Welcome+To+My+Page" alt="Typing Svg">
+<h4 align="center" style="background: url('/assets/5172658.jpg'); background-size: 100vw; border-radius: 15px; box-shadow: 0 0 15px Blue;">
+ <img src="https://readme-typing-svg.herokuapp.com?font=Saira&duration=3700&pause=1000&color=006EF7&center=true&width=435&lines=Hello%2C+Guys!;Welcome+To+My+Page" alt="Typing Svg" style="margin-top: 30px">
  <div align="center">
-  <img src="/assets/star-rail-kuru.gif" width="190" height="190" alt="kuru kuru.png">
-  <h2><img src="https://readme-typing-svg.herokuapp.com?font=Saira&duration=3000&pause=1000&color=ff9eb3&center=true&vCenter=true&width=435&lines=Nekitori17;Nekitori+Hakari;Nguy%E1%BB%85n+Ng%E1%BB%8Dc+C%C6%B0%E1%BB%9Dng" alt="Typing SVG"></h2>
+  <img src="/assets/star-rail-kuru.gif" width="150" height="150" alt="kuru kuru.png" style="border: 2px dashed lightblue; border-radius: 50%">
+  <p><img src="https://readme-typing-svg.herokuapp.com?font=Saira&duration=3000&pause=1000&color=ff9eb3&center=true&vCenter=true&width=300&lines=Nekitori17;Nekitori+Hakari;Nguy%E1%BB%85n+Ng%E1%BB%8Dc+C%C6%B0%E1%BB%9Dng" alt="Typing SVG" style="box-shadow: 0 0 15px red"></p>
   <div>
-   <span><img alt="GitHub followers" src="https://img.shields.io/github/followers/nekitori17?label=Github%20Following&style=flat-square"><img alt="GitHub Start" src="https://img.shields.io/github/stars/nekitori17?label=Github%20Star&style=flat-square"><img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/@nekitori17?label=YouTube%20Subcriber&style=flat-square">
+   <span><img alt="GitHub followers" src="https://img.shields.io/github/followers/nekitori17?label=Github%20Following&style=flat-square"><img alt="GitHub Start" src="https://img.shields.io/github/stars/nekitori17?label=Github%20Star&style=flat-square" style="margin: 0 3% 0 3%">
   </div>
-  <div>
+  <div style="color:white; padding: 10px;">
   <p>Hello Everyone! I'm Nekitori17, I from Vietnam and I am a Front-end developer   (Currently, it is so).</p>
   <p>Right now I'm just entering the programming, so if there's anything wrong, I hope you can teach me.</p>
   <p>This will be the place where I post my projects and share them with everyone.</p>
   <p>And here are the things I will learn and master in the near future XD.</p>
   </div>
-  <a href="https://Nekitori17.github.io">🔗My Website</a>
+  <a href="https://Nekitori17.github.io" style="text-decoration: none; Color: #c5ffa8">🔗My Website</a>
  </div>
-</body>
+</h4>
 
 ## ⬅️ Front-end
 
