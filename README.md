@@ -24,6 +24,7 @@
 </div>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:c7fdff,100:bf75ff&height=150&section=footer&reversal=true" width="100%">
 
+
 # ⬅️ Front-end
 [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/Nekitori17)
 [![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/Nekitori17)
@@ -71,4 +72,4 @@
 
 * [![Gmail](https://img.shields.io/badge/Gmail-cuongnguyen286641%40gmail.com-ff833b?logo=gmail&style=flat-square)](mailto:cuongnguyen286641@gmail.com)
 
-<div align="center"><img src="https://komarev.com/ghpvc/?username=nekitori17&style=for-the-badge" alt="Visit Counter.bmp"></div>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=nekitori17&style=for-the-badge" alt="Visit Counter.bmp"></p>
