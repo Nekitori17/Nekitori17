@@ -8,11 +8,10 @@
   </p>
   </div>
   <div>
-   <div style="display: inline-block;">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/nekitori17?label=Github%20Follower&style=flat-square">
-    <img alt="GitHub Start" src="https://img.shields.io/github/stars/nekitori17?label=Github%20Star&style=flat-square">
-    <img alt="Discord Chat" src="https://img.shields.io/discord/1113471790291890226?style=flat-square&logo=discord&label=Discord&color=5e64ff">
-   </div>
+   <img alt="GitHub followers" src="https://img.shields.io/github/followers/nekitori17?label=Github%20Follower&style=flat-square">
+   <img alt="GitHub Start" src="https://img.shields.io/github/stars/nekitori17?label=Github%20Star&style=flat-square">
+   <img alt="Discord Chat" src="https://img.shields.io/discord/1113471790291890226?style=flat-square&logo=discord&label=Discord&color=5e64ff">
+  </div>
   <div style="color:lightblue; padding: 10px;">
   <p>Hello Everyone! I'm Nekitori17, I from Vietnam and I am a Front-end developer   (Currently, it is so).</p>
   <p>Right now I'm just entering the programming, so if there's anything wrong, I hope you can teach me.</p>
