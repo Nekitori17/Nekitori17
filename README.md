@@ -19,7 +19,7 @@
   <p>This will be the place where I post my projects and share them with everyone.</p>
   <p>And here are the things I will learn and master in the near future XD.</p>
   </div>
-  <a href="https://" style="text-decoration: none; Color: #c5ffa8">🔗My Website   </a>
+  <a href="https://" style="text-decoration: none; Color: #c5ffa8">🔗My Website</a><br>
   <a href="https://discord.gg/aY4dAghK64" style="text-decoration: none; color: #c5ff8a">💬My Discord Sever</a>
 </div>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:c7fdff,100:bf75ff&height=150&section=footer&reversal=true" width="100%">
