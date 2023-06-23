@@ -19,28 +19,28 @@
   <p>This will be the place where I post my projects and share them with everyone.</p>
   <p>And here are the things I will learn and master in the near future XD.</p>
   </div>
-  <a href="https://" style="text-decoration: none; Color: #c5ffa8">🔗My Website</a><br>
+  <a href="https://" style="text-decoration: none; Color: #c5ffa8">🔗My Website</a><hr>
   <a href="https://discord.gg/aY4dAghK64" style="text-decoration: none; color: #c5ff8a">💬My Discord Sever</a>
 </div>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:c7fdff,100:bf75ff&height=150&section=footer&reversal=true" width="100%">
 
 
-# ⬅️ Front-end
+## ⬅️ Front-end
 [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/Nekitori17)
 [![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/Nekitori17)
 [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://github.com/Nekitori17)
 
-# 💬 Language
+## 💬 Language
 [![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://github.com/Nekitori17) [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)](https://github.com/Nekitori17) [![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)](https://github.com/Nekitori17)
-# 🧱 FRAMEWORKS 
+## 🧱 FRAMEWORKS 
 [![Bootstrap](https://img.shields.io/badge/bootstrap%204-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)](https://github.com/Nekitori17)
-# 💻 Editor
+## 💻 Editor
 [![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-692eff.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)](https://github.com/Nekitori17)
 [![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-692eff.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)](https://github.com/Nekitori17)
 [![Animate](https://img.shields.io/badge/Adobe%20Animate-ff4545.svg?style=for-the-badge&logo=Adobe&logoColor=white)](https://github.com/Nekitori17)
 [![Blender](https://img.shields.io/badge/Blender-ffaa4f.svg?style=for-the-badge&logo=blender&logoColor=White)](https://github.com/Nekitori17)
 [![VScode](https://img.shields.io/badge/Visual%20Studio%20Code-2e9dff.svg?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)](https://github.com/Nekitori17)
-# 📊 GitHub Stats :
+## 📊 GitHub Stats :
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=Nekitori17&theme=gruvbox&hide_border=true&include_all_commits=false&count_private=false)](https://github.com/Nekitori17)
 
  🔥Streak:
@@ -55,13 +55,13 @@
 
 [![Trophies](https://github-trophies.vercel.app/?username=Nekitori17&theme=monokai&no-frame=true&no-bg=false&margin-w=4)](https://github.com/Nekitori17)
 
-# 🔝Top Contributed Repo
+## 🔝Top Contributed Repo
 [![Top Contri](https://github-contributor-stats.vercel.app/api?username=Nekitori17&limit=5&theme=dracula&combine_all_yearly_contributions=true)](https://github.com/nekitori17)
 
-# 📋Random Dev Quote
+## 📋Random Dev Quote
 [![Random](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)](https://github.com/Nekitori17)
 
-# 🌐Social Media
+## 🌐Social Media
 * [![Facebook](https://img.shields.io/badge/facebook-%40Nekitori_Hakari-2da1da?logo=facebook&style=flat-square)](https://www.facebook.com/nekinotfound)
 
 * [![Zalo](https://img.shields.io/badge/Zalo-%40Nguy%E1%BB%85n%20C%C6%B0%E1%BB%9Dng-94d6ff?logo=zalo&style=flat-square)](https://zalo.me/0332139788)
