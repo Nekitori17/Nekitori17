@@ -6,6 +6,7 @@
   <p>
    <img src="https://readme-typing-svg.herokuapp.com?font=Saira&duration=3000&pause=1000&color=ff9eb3&center=true&vCenter=true&width=300&lines=Nekitori17;Nekitori+Hakari;Nguy%E1%BB%85n+Ng%E1%BB%8Dc+C%C6%B0%E1%BB%9Dng" alt="Typing SVG" style="box-shadow: 0 0 15px red">
   </p>
+  </div>
   <div>
    <div style="display: inline-block;">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/nekitori17?label=Github%20Follower&style=flat-square">
@@ -70,4 +71,4 @@
 
 * [![Gmail](https://img.shields.io/badge/Gmail-cuongnguyen286641%40gmail.com-ff833b?logo=gmail&style=flat-square)](mailto:cuongnguyen286641@gmail.com)
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=nekitori17&style=for-the-badge" alt="Visit Counter.bmp"></p>
+<div align="center"><img src="https://komarev.com/ghpvc/?username=nekitori17&style=for-the-badge" alt="Visit Counter.bmp"></div>
