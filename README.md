@@ -4,22 +4,24 @@
  <div>
   <img src="/assets/star-rail-kuru.gif" width="150" height="150" alt="kuru kuru.png" style="border: 2px solid gray; border-radius: 50%">
   <p>
-   <img src="https://readme-typing-svg.herokuapp.com?font=Saira&duration=3000&pause=1000&color=ff9eb3&center=true&vCenter=true&width=300&lines=Nekitori17;Nekitori+Hakari;Nguy%E1%BB%85n+Ng%E1%BB%8Dc+C%C6%B0%E1%BB%9Dng" alt="Typing SVG" style="box-shadow: 0 0 15px red">
+   <img src="https://readme-typing-svg.herokuapp.com?font=Saira&duration=3000&pause=1000&color=ff9eb3&center=true&vCenter=true&width=300&lines=Nekitori17;Nekitori+Hakari;Nguy%E1%BB%85n+Ng%E1%BB%8Dc+C%C6%B0%E1%BB%9Dng" alt="Typing SVG" style="box-shadow:0 0 20px red">
   </p>
   </div>
-  <nav>
+  <selection>
    <img alt="GitHub followers" src="https://img.shields.io/github/followers/nekitori17?label=Github%20Follower&style=flat-square">
    <img alt="GitHub Start" src="https://img.shields.io/github/stars/nekitori17?label=Github%20Star&style=flat-square">
    <img alt="Discord Chat" src="https://img.shields.io/discord/1113471790291890226?style=flat-square&logo=discord&label=Discord&color=5e64ff">
+  </selection>
+  <article style="color:lightblue; padding: 10px;">
+   <p>Hello Everyone! I'm Nekitori17, I from Vietnam and I am a Front-end developer   (Currently, it is so).</p>
+   <p>Right now I'm just entering the programming, so if there's anything wrong, I hope you can teach me.</p>
+   <p>This will be the place where I post my projects and share them with everyone.</p>
+   <p>And here are the things I will learn and master in the near future XD.</p>
+  </article>
+  <nav>
+   <a href="https://" style="text-decoration: none; Color: #5460ff">🔗My Website</a><br>
+   <a href="https://discord.gg/aY4dAghK64" style="text-decoration: none; color: #5964ff">💬My Discord Sever</a>
   </nav>
-  <section style="color:lightblue; padding: 10px;">
-  <p>Hello Everyone! I'm Nekitori17, I from Vietnam and I am a Front-end developer   (Currently, it is so).</p>
-  <p>Right now I'm just entering the programming, so if there's anything wrong, I hope you can teach me.</p>
-  <p>This will be the place where I post my projects and share them with everyone.</p>
-  <p>And here are the things I will learn and master in the near future XD.</p>
-  </section>
-  <a href="https://" style="text-decoration: none; Color: #5460ff">🔗My Website</a><br>
-  <a href="https://discord.gg/aY4dAghK64" style="text-decoration: none; color: #5964ff">💬My Discord Sever</a>
 </div>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:c7fdff,100:bf75ff&height=150&section=footer&reversal=true" width="100%">
 
