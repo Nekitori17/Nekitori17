@@ -3,10 +3,10 @@
  <div align="center">
    <img src="https://readme-typing-svg.herokuapp.com?font=Saira&duration=4000&pause=1000&color=006EF7&center=true&width=435&lines=Hello%2C+Guys!;Welcome+To+My+Page" alt="Typing Svg" style="margin-bottom: 10px">
    <div>
-     <img src="/assets/star-rail-kuru.gif" width="150" height="150" alt="kuru kuru.png" style="border: 2px solid gray; border-radius: 50%">
+     <img src="/assets/star-rail-kuru.gif" width="150" height="150" alt="kuru kuru.png" style="border: 2px solid #3269a8; border-radius: 50%">
    </div>
    <div>
-     <img src="https://readme-typing-svg.herokuapp.com?font=Saira&size=16&duration=3000&pause=1000&color=F796B1&center=true&vCenter=true&width=240&height=35&lines=Nekitori17;Nekitori+Hakari;Nguy%E1%BB%85n+Ng%E1%BB%8Dc+C%C6%B0%E1%BB%9Dng" alt="Typing SVG" style="margin: 10px" />
+     <img src="https://readme-typing-svg.herokuapp.com?font=Saira&size=17&duration=3000&pause=1000&color=F796B1&center=true&vCenter=true&width=240&height=35&lines=Nekitori17;Nekitori+Hakari;Nguy%E1%BB%85n+Ng%E1%BB%8Dc+C%C6%B0%E1%BB%9Dng" alt="Typing SVG" style="margin: 10px" />
    </div>
    <selection>
      <img alt="GitHub followers" src="https://img.shields.io/github/followers/nekitori17?label=Github%20Follower&style=flat-github&logo=github">
