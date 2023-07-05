@@ -20,7 +20,7 @@
      <p>And here are the things I will learn and master in the near future XD.</p>
    </article>
    <nav>
-     <a href="https://" style="text-decoration: none; Color: #5460ff">🔗My Website</a><br>
+     <a href="https://nekitori17.github.io" style="text-decoration: none; Color: #5460ff">🔗My Website</a><br>
      <a href="https://discord.gg/aY4dAghK64" style="text-decoration: none; color: #5964ff">💬My Discord Sever</a>
    </nav>
  </div>
