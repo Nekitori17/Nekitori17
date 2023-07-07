@@ -29,41 +29,41 @@
 
 
 ## ⬅️ Front-end
-[![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/Nekitori17)
-[![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/Nekitori17)
-[![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://github.com/Nekitori17)
+[![HTML5](https://img.shields.io/badge/html5-%23323330.svg?style=for-the-badge&logo=html5&logoColor=orange)](https://github.com/Nekitori17)
+[![CSS3](https://img.shields.io/badge/css3-%23323330.svg?style=for-the-badge&logo=css3&logoColor=blue)](https://github.com/Nekitori17)
+[![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=)](https://github.com/Nekitori17)
 
 ## 💬 Language
-[![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://github.com/Nekitori17) [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)](https://github.com/Nekitori17) [![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)](https://github.com/Nekitori17)
+[![C++](https://img.shields.io/badge/c++-%23323330.svg?style=for-the-badge&logo=c%2B%2B&logoColor=skyblue)](https://github.com/Nekitori17) [![Java](https://img.shields.io/badge/java-%23323330.svg?style=for-the-badge&logo=openjdk&logoColor=eb8c34)](https://github.com/Nekitori17) [![Kotlin](https://img.shields.io/badge/kotlin-%23323330.svg?style=for-the-badge&logo=kotlin&logoColor=8f75ff)](https://github.com/Nekitori17)
 ## 👾Misc
-[![Bootstrap](https://img.shields.io/badge/bootstrap%204-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)](https://github.com/Nekitori17)
-[![TypeScript](https://img.shields.io/badge/TypeScript-%33483eb.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/Nekitori17)
+[![Bootstrap](https://img.shields.io/badge/bootstrap%204-%23323330.svg?style=for-the-badge&logo=bootstrap&logoColor=66317d)](https://github.com/Nekitori17)
+[![TypeScript](https://img.shields.io/badge/TypeScript-%23323330.svg?style=for-the-badge&logo=typescript&logoColor=1e99e6)](https://github.com/Nekitori17)
 ## 💻 Editor
-[![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-692eff.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)](https://github.com/Nekitori17)
-[![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-692eff.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)](https://github.com/Nekitori17)
-[![Animate](https://img.shields.io/badge/Adobe%20Animate-ff4545.svg?style=for-the-badge&logo=Adobe&logoColor=white)](https://github.com/Nekitori17)
-[![Blender](https://img.shields.io/badge/Blender-ffaa4f.svg?style=for-the-badge&logo=blender&logoColor=White)](https://github.com/Nekitori17)
-[![VScode](https://img.shields.io/badge/Visual%20Studio%20Code-2e9dff.svg?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)](https://github.com/Nekitori17)
+[![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-%23323330.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=692eff)](https://github.com/Nekitori17)
+[![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-%23323330.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=692eff)](https://github.com/Nekitori17)
+[![Animate](https://img.shields.io/badge/Adobe%20Animate-%23323330.svg?style=for-the-badge&logo=Adobe&logoColor=e6711e)](https://github.com/Nekitori17)
+[![Blender](https://img.shields.io/badge/Blender-%23323330.svg?style=for-the-badge&logo=blender&logoColor=White)](https://github.com/Nekitori17)
+[![VScode](https://img.shields.io/badge/Visual%20Studio%20Code-%23323330.svg?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=blue)](https://github.com/Nekitori17)
 ## 📊 GitHub Stats :
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=Nekitori17&theme=gruvbox&hide_border=true&include_all_commits=false&count_private=false)](https://github.com/Nekitori17)
-
-### 🔥Streak:
-
-[![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nekitori17&theme=gruvbox&hide_border=true)](https://github.com/Nekitori17)
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=Nekitori17&theme=holi&hide_border=true&include_all_commits=true&count_private=false&show=reviews&show_icons=true&custom_title=Nekitori17's%20Stats&include_all_commits=true)](https://github.com/Nekitori17)
 
 ### ✍️Most Used Language
 
-[![Most Used](https://github-readme-stats.vercel.app/api/top-langs/?username=Nekitori17&theme=gruvbox&hide_border=true&include_all_commits=false&count_private=false&layout=compact)](https://github.com/Nekitori17)
+[![Most Used](https://github-readme-stats.vercel.app/api/top-langs/?username=Nekitori17&theme=holi&hide_border=true&layout=compact&langs_count=7&custom_title=Language%20Used&include_all_commits=true)](https://github.com/Nekitori17)
+
+### 🔥Streak:
+
+[![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nekitori17&theme=tokyonight&hide_border=true&locale=vi)](https://github.com/Nekitori17)
 
 ### 🏆 Trophies: 
 
-[![Trophies](https://github-trophies.vercel.app/?username=Nekitori17&theme=monokai&no-frame=true&no-bg=false&margin-w=4)](https://github.com/Nekitori17)
+[![Trophies](https://github-trophies.vercel.app/?username=Nekitori17&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)](https://github.com/Nekitori17)
 
 ## 🔝Top Contributed Repo
-[![Top Contri](https://github-contributor-stats.vercel.app/api?username=Nekitori17&limit=5&theme=dracula&combine_all_yearly_contributions=true)](https://github.com/nekitori17)
+[![Top Contri](https://github-contributor-stats.vercel.app/api?username=Nekitori17&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true)](https://github.com/nekitori17)
 
 ## 📋Random Dev Quote
-[![Random](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)](https://github.com/Nekitori17)
+[![Random](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&hide_border=true)](https://github.com/Nekitori17)
 
 ## 🌐Social Media
 * [![Facebook](https://img.shields.io/badge/facebook-%40Nekitori_Hakari-2da1da?logo=facebook&style=flat-square)](https://www.facebook.com/nekinotfound)
