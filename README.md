@@ -35,8 +35,9 @@
 
 ## 💬 Language
 [![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://github.com/Nekitori17) [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)](https://github.com/Nekitori17) [![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)](https://github.com/Nekitori17)
-## 🧱 FRAMEWORKS 
+## 👾Misc
 [![Bootstrap](https://img.shields.io/badge/bootstrap%204-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)](https://github.com/Nekitori17)
+[![TypeScript](https://img.shields.io/badge/TypeScript-%33483eb.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/Nekitori17)
 ## 💻 Editor
 [![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-692eff.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)](https://github.com/Nekitori17)
 [![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-692eff.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)](https://github.com/Nekitori17)
