@@ -28,21 +28,21 @@
 </div>
 
 
-## ⬅️ Front-end
+## ⬅️ Front-end [x]
 [![HTML5](https://img.shields.io/badge/html5-%23323330.svg?style=for-the-badge&logo=html5&logoColor=FF4500)](https://github.com/Nekitori17)
 [![CSS3](https://img.shields.io/badge/css3-%23323330.svg?style=for-the-badge&logo=css3&logoColor=1572B6)](https://github.com/Nekitori17)
 [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=FFD700)](https://github.com/Nekitori17)
 [![TypeScript](https://img.shields.io/badge/TypeScript-%23323330.svg?style=for-the-badge&logo=typescript&logoColor=007ACC)](https://github.com/Nekitori17)
-## 🧱 Framework
+## 🧱 Framework [ ]
 [![Bootstrap](https://img.shields.io/badge/bootstrap%204-%23323330.svg?style=for-the-badge&logo=bootstrap&logoColor=563d7c)](https://github.com/Nekitori17)
-## 💽 Back-end
+## 💽 Back-end [ ]
 [![Node.js](https://img.shields.io/badge/Node.js-%23323330.svg?style=for-the-badge&logo=node.js&logoColor=339933)](https://github.com/Nekitori17)
-## 💬 Language
+## 💬 Language [ ]
 [![C++](https://img.shields.io/badge/c++-%23323330.svg?style=for-the-badge&logo=c%2B%2B&logoColor=00599C)](https://github.com/Nekitori17)
 [![C#](https://img.shields.io/badge/c%23-%23323330.svg?style=for-the-badge&logo=c-sharp&logoColor=007ACC)](https://github.com/Nekitori17)
 [![Rust](https://img.shields.io/badge/Rust-%23323330.svg?style=for-the-badge&logo=Rust&logoColor=FF7518)](https://github.com/Nekitori17)
 [![Java](https://img.shields.io/badge/java-%23323330.svg?style=for-the-badge&logo=oracle&logoColor=F80000)](https://github.com/Nekitori17) [![Kotlin](https://img.shields.io/badge/kotlin-%23323330.svg?style=for-the-badge&logo=kotlin&logoColor=7F52FF)](https://github.com/Nekitori17)
-## 💻 Editor
+## 💻 Editor [ ]
 [![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-%23323330.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=FF2D55)](https://github.com/Nekitori17)
 [![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-%23323330.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=EA77FF)](https://github.com/Nekitori17)
 [![Animate](https://img.shields.io/badge/Adobe%20Animate-%23323330.svg?style=for-the-badge&logo=adobe&logoColor=FF0000)](https://github.com/Nekitori17)
@@ -53,7 +53,7 @@
 
 ### ✍️Most Used Language
 
-[![Most Used](https://github-readme-stats.vercel.app/api/top-langs/?username=Nekitori17&theme=holi&hide_border=true&layout=compact&langs_count=47&custom_title=Language%20Used&include_all_commits=true)](https://github.com/Nekitori17)
+[![Most Used](https://github-readme-stats.vercel.app/api/top-langs/?username=Dungdinhmanh&theme=holi&hide_border=true&layout=compact&langs_count=47&custom_title=Language%20Used&include_all_commits=true)](https://github.com/Nekitori17)
 
 ### 🔥Streak:
 
