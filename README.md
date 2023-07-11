@@ -29,21 +29,25 @@
 
 
 ## ⬅️ Front-end
-[![HTML5](https://img.shields.io/badge/html5-%23323330.svg?style=for-the-badge&logo=html5&logoColor=orange)](https://github.com/Nekitori17)
-[![CSS3](https://img.shields.io/badge/css3-%23323330.svg?style=for-the-badge&logo=css3&logoColor=blue)](https://github.com/Nekitori17)
-[![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=)](https://github.com/Nekitori17)
-
+[![HTML5](https://img.shields.io/badge/html5-%23323330.svg?style=for-the-badge&logo=html5&logoColor=FF4500)](https://github.com/Nekitori17)
+[![CSS3](https://img.shields.io/badge/css3-%23323330.svg?style=for-the-badge&logo=css3&logoColor=1572B6)](https://github.com/Nekitori17)
+[![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=FFD700)](https://github.com/Nekitori17)
+[![TypeScript](https://img.shields.io/badge/TypeScript-%23323330.svg?style=for-the-badge&logo=typescript&logoColor=007ACC)](https://github.com/Nekitori17)
+## 🧱 Framework
+[![Bootstrap](https://img.shields.io/badge/bootstrap%204-%23323330.svg?style=for-the-badge&logo=bootstrap&logoColor=563d7c)](https://github.com/Nekitori17)
+## 💽 Back-end
+[![Node.js](https://img.shields.io/badge/Node.js-%23323330.svg?style=for-the-badge&logo=node.js&logoColor=339933)](https://github.com/Nekitori17)
 ## 💬 Language
-[![C++](https://img.shields.io/badge/c++-%23323330.svg?style=for-the-badge&logo=c%2B%2B&logoColor=skyblue)](https://github.com/Nekitori17) [![Java](https://img.shields.io/badge/java-%23323330.svg?style=for-the-badge&logo=openjdk&logoColor=eb8c34)](https://github.com/Nekitori17) [![Kotlin](https://img.shields.io/badge/kotlin-%23323330.svg?style=for-the-badge&logo=kotlin&logoColor=8f75ff)](https://github.com/Nekitori17)
-## 👾Misc
-[![Bootstrap](https://img.shields.io/badge/bootstrap%204-%23323330.svg?style=for-the-badge&logo=bootstrap&logoColor=66317d)](https://github.com/Nekitori17)
-[![TypeScript](https://img.shields.io/badge/TypeScript-%23323330.svg?style=for-the-badge&logo=typescript&logoColor=1e99e6)](https://github.com/Nekitori17)
+[![C++](https://img.shields.io/badge/c++-%23323330.svg?style=for-the-badge&logo=c%2B%2B&logoColor=00599C)](https://github.com/Nekitori17)
+[![C#](https://img.shields.io/badge/c%23-%23323330.svg?style=for-the-badge&logo=c-sharp&logoColor=007ACC)](https://github.com/Nekitori17)
+[![Rust](https://img.shields.io/badge/Rust-%23323330.svg?style=for-the-badge&logo=Rust&logoColor=FF7518)](https://github.com/Nekitori17)
+[![Java](https://img.shields.io/badge/java-%23323330.svg?style=for-the-badge&logo=oracle&logoColor=F80000)](https://github.com/Nekitori17) [![Kotlin](https://img.shields.io/badge/kotlin-%23323330.svg?style=for-the-badge&logo=kotlin&logoColor=7F52FF)](https://github.com/Nekitori17)
 ## 💻 Editor
-[![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-%23323330.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=692eff)](https://github.com/Nekitori17)
-[![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-%23323330.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=692eff)](https://github.com/Nekitori17)
-[![Animate](https://img.shields.io/badge/Adobe%20Animate-%23323330.svg?style=for-the-badge&logo=Adobe&logoColor=e6711e)](https://github.com/Nekitori17)
-[![Blender](https://img.shields.io/badge/Blender-%23323330.svg?style=for-the-badge&logo=blender&logoColor=White)](https://github.com/Nekitori17)
-[![VScode](https://img.shields.io/badge/Visual%20Studio%20Code-%23323330.svg?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=blue)](https://github.com/Nekitori17)
+[![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-%23323330.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=FF2D55)](https://github.com/Nekitori17)
+[![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-%23323330.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=EA77FF)](https://github.com/Nekitori17)
+[![Animate](https://img.shields.io/badge/Adobe%20Animate-%23323330.svg?style=for-the-badge&logo=adobe&logoColor=FF0000)](https://github.com/Nekitori17)
+[![Blender](https://img.shields.io/badge/Blender-%23323330.svg?style=for-the-badge&logo=blender&logoColor=F5792A)](https://github.com/Nekitori17)
+[![VScode](https://img.shields.io/badge/Visual%20Studio%20Code-%23323330.svg?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=007ACC)](https://github.com/Nekitori17)
 ## 📊 GitHub Stats :
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=Nekitori17&theme=holi&hide_border=true&include_all_commits=true&count_private=false&show=reviews&show_icons=true&custom_title=Nekitori17's%20Stats&include_all_commits=true)](https://github.com/Nekitori17)
 
