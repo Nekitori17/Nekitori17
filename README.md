@@ -39,6 +39,7 @@
 [![Node.js](https://img.shields.io/badge/Node.js-%23323330.svg?style=for-the-badge&logo=node.js&logoColor=339933)](https://github.com/Nekitori17)
 ## 💬 Language 
 [![C++](https://img.shields.io/badge/c++-%23323330.svg?style=for-the-badge&logo=c%2B%2B&logoColor=00599C)](https://github.com/Nekitori17)
+<!--[![C#](https://img.shields.io/badge/c%23-%23323330.svg?style=for-the-badge&logo=c-sharp&logoColor=007ACC)](https://github.com/Nekitori17)-->
 [![Rust](https://img.shields.io/badge/Rust-%23323330.svg?style=for-the-badge&logo=Rust&logoColor=FF7518)](https://github.com/Nekitori17)
 [![Java](https://img.shields.io/badge/java-%23323330.svg?style=for-the-badge&logo=oracle&logoColor=F80000)](https://github.com/Nekitori17) 
 [![Kotlin](https://img.shields.io/badge/kotlin-%23323330.svg?style=for-the-badge&logo=kotlin&logoColor=7F52FF)](https://github.com/Nekitori17)
