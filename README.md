@@ -28,7 +28,7 @@
 </div>
 
 
-## ⬅️ Front-end [x]
+## ⬅️ Front-end 
 [![HTML5](https://img.shields.io/badge/html5-%23323330.svg?style=for-the-badge&logo=html5&logoColor=FF4500)](https://github.com/Nekitori17)
 [![CSS3](https://img.shields.io/badge/css3-%23323330.svg?style=for-the-badge&logo=css3&logoColor=1572B6)](https://github.com/Nekitori17)
 [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=FFD700)](https://github.com/Nekitori17)
