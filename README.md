@@ -53,7 +53,7 @@
 
 ### ✍️Most Used Language
 
-[![Most Used](https://github-readme-stats.vercel.app/api/top-langs/?username=Dungdinhmanh&theme=holi&hide_border=true&layout=compact&langs_count=47&custom_title=Language%20Used&include_all_commits=true)](https://github.com/Nekitori17)
+[![Most Used](https://github-readme-stats.vercel.app/api/top-langs/?username=Fakemg&theme=holi&hide_border=true&layout=compact&langs_count=47&custom_title=Language%20Used&include_all_commits=true)](https://github.com/Nekitori17)
 
 ### 🔥Streak:
 
