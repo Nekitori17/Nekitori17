@@ -49,11 +49,11 @@
 [![Blender](https://img.shields.io/badge/Blender-%23323330.svg?style=for-the-badge&logo=blender&logoColor=F5792A)](https://github.com/Nekitori17)-->
 [![VScode](https://img.shields.io/badge/Visual%20Studio%20Code-%23323330.svg?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=007ACC)](https://github.com/Nekitori17)
 ## 📊 GitHub Stats :
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=Nekitori17&theme=holi&hide_border=true&include_all_commits=true&count_private=false&show=reviews&show_icons=true&custom_title=Nekitori17's%20Stats&include_all_commits=true)](https://github.com/Nekitori17)
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=fakemg&theme=holi&hide_border=true&include_all_commits=true&count_private=false&show=reviews&show_icons=true&custom_title=Nekitori17's%20Stats&include_all_commits=true)](https://github.com/Nekitori17)
 
 ### ✍️Most Used Language
 
-[![Most Used](https://github-readme-stats.vercel.app/api/top-langs/?username=Fakemg&theme=holi&hide_border=true&layout=compact&langs_count=47&custom_title=Language%20Used&include_all_commits=true)](https://github.com/Nekitori17)
+[![Most Used](https://github-readme-stats.vercel.app/api/top-langs/?username=fakemg&theme=holi&hide_border=true&layout=compact&langs_count=47&custom_title=Language%20Used&include_all_commits=true)](https://github.com/Nekitori17)
 
 ### 🔥Streak:
 
