@@ -33,6 +33,7 @@
       <br>
       <br>
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="node" title="NodeJS">
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bun/bun-original.svg" alt="bun" title="BunJS">
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" alt="mongo" title="MongoDB">
       <img width="30px" src="https://raw.githubusercontent.com/Nekitori17/.assets/main/svg/icons/flask-modified.svg" alt="flask" title="Flask">
     </kbd>
