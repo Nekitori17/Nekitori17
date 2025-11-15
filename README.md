@@ -64,6 +64,12 @@
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" alt="win11" title="Window 11">
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="linux" title="Linux">
     </kbd>
+    <kbd>
+      <kbd>Additional</kbd>
+      <br>
+      <br>
+      <img width="40px" src="./images/flstudio.png" alt="linux" title="FL Studio">
+    </kbd>
   </p>
 </div>
 <p align="center">
