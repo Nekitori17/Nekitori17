@@ -9,7 +9,7 @@
     <li>💻 A Junior Developer.</li>
     <li>🕵️ Studying in high school </li>
     <li>🔭 I’m currently working on my Discord Bot</li>
-    <li>🌱 I’m currently learning Godot, Svelte</li>
+    <li>🌱 I’m currently learning Godot, Rust</li>
     <li>👯 I’m looking to collaborate on front-end and back-end projects</li>
     <li>📫 How to reach me: <a href="mailto:cuongnguyen286641@gmail.com">cuongnguyen286641@gmail.com</a></li>
     <li>⚡ What I like to do: I like so much listen to music, playing game (especially rhythm games), watching anime ...and coding of course</li>
