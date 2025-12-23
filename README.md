@@ -70,7 +70,8 @@
       <kbd>Additional</kbd>
       <br>
       <br>
-      <img width="40px" src="./images/flstudio.png" alt="flstudio" title="FL Studio">
+      <img width="40px" src="./images/flm.png" alt="flm" title="FL Studio Mobile">
+      <img width="40px" src="./images/reaper.png" alt="rpp" title="REAPER">
     </kbd>
   </p>
 </div>
