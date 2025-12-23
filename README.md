@@ -9,7 +9,7 @@
     <li>💻 A Junior Developer.</li>
     <li>🕵️ Studying in high school </li>
     <li>🔭 I’m currently working on my Discord Bot</li>
-    <li>🌱 I’m currently learning Godot, Rust</li>
+    <li>🌱 I’m currently learning Godot, SvelteJS</li>
     <li>👯 I’m looking to collaborate on front-end and back-end projects</li>
     <li>📫 How to reach me: <a href="mailto:cuongnguyen286641@gmail.com">cuongnguyen286641@gmail.com</a></li>
     <li>⚡ What I like to do: I like so much listen to music, playing game (especially rhythm games), watching anime ...and coding of course</li>
@@ -25,8 +25,7 @@
       <br>
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="html" title="Html5">
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css" title="Css3">
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="vue" title="VueJS">
-      <!--<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" alt="svelte" title="SvelteJS">-->
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" alt="svelte" title="SvelteJS">
     </kbd>
     <kbd>
       <kbd>Back-end</kbd>
@@ -42,6 +41,7 @@
       <br>
       <br>
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="cpp" title="C++">
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" alt="rs" title="Rust">
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="py" title="Python">
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="js" title="JavaScript">
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="ts" title="TypeScript">
