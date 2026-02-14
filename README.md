@@ -25,7 +25,9 @@
       <br>
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="html" title="Html5">
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css" title="Css3">
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" alt="svelte" title="SvelteJS">
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="vue" title="VueJS">
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" alt="nuxt" title="NuxtJS">
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" alt="svelte" title="SvelteJS/SvelteKit">
     </kbd>
     <kbd>
       <kbd>Back-end</kbd>
@@ -33,8 +35,15 @@
       <br>
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="node" title="NodeJS">
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bun/bun-original.svg" alt="bun" title="BunJS">
+      <img width="30px" src="./images/flask-modified.svg" alt="flask" title="Flask">
+      <img width="30px" src="./images/nitrojs.svg" alt="nitro" title="NitroJS">
+    </kbd>
+    <kbd>
+      <kbd>Database</kbd>
+      <br>
+      <br>
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" alt="mongo" title="MongoDB">
-      <img width="30px" src="https://raw.githubusercontent.com/Nekitori17/.assets/main/svg/icons/flask-modified.svg" alt="flask" title="Flask">
+      <img width="30px" src="./images/drizzle-orm.svg" alt="drizzle" title="DrizzleORM">
     </kbd>
     <kbd>
       <kbd>Language Coding</kbd>
@@ -52,7 +61,7 @@
       <br>
       <br>
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="git" title="Git">
-      <img width="30px" src="https://raw.githubusercontent.com/Nekitori17/.assets/main/svg/icons/bash-modified.svg" alt="bash" title="Bash">
+      <img width="30px" src="./images/bash-modified.svg" alt="bash" title="Bash">
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" alt="vitejs" title="ViteJS">
       <!--<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="docker" title="Docker">-->
     </kbd>
