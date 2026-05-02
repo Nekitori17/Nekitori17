@@ -11,7 +11,7 @@
     <li>🔭 I’m currently working on my Discord Bot</li>
     <li>🌱 I’m currently learning Godot, SvelteJS</li>
     <li>👯 I’m looking to collaborate on front-end and back-end projects</li>
-    <li>📫 How to reach me: <a href="mailto:cuongnguyen286641@gmail.com">cuongnguyen286641@gmail.com</a></li>
+    <li>📫 How to reach me: <a href="mailto:plinkatsu1337@gmail.com">plinkatsu1337@gmail.com</a></li>
     <li>⚡ What I like to do: I like so much listen to music, playing game (especially rhythm games), watching anime ...and coding of course</li>
   </ul>
 </section>
@@ -111,7 +111,7 @@
     <li><a href="https://facebook.com/nekitorihakari"><img src="https://img.shields.io/badge/nekitorihakari-%23323330?style=for-the-badge&logo=facebook&label=Facebook&logoColor=0866FF" alt="Facebook"></a></li>
     <li><a href="https://youtube.com/@plinkatsu"><img src="https://img.shields.io/badge/@plinkatsu-%23323330?style=for-the-badge&logo=youtube&label=YouTube&logoColor=FF0000" alt="YouTube"></a></li>
     <li><a href="https://discord.com/users/1032626223307829289"><img src="https://img.shields.io/badge/nekitorihakari-%23323330?style=for-the-badge&logo=discord&label=Discord&logoColor=5865F2" alt="Discord"></a></li>
-    <li><a href="mailto:cuongnguyen286641@gmail.com"><img src="https://img.shields.io/badge/cuongnguyen286641@gmail.com-%23323330?style=for-the-badge&logo=gmail&label=Gmail&logoColor=EA4335" alt="Gmail"></a></li>
+    <li><a href="mailto:plinkatsu1337@gmail.com"><img src="https://img.shields.io/badge/plinkatsu1337@gmail.com-%23323330?style=for-the-badge&logo=gmail&label=Gmail&logoColor=EA4335" alt="Gmail"></a></li>
   </ul>
 </div>
 <hr>
