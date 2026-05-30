@@ -106,6 +106,62 @@
 <h2>/ Activities /</h2>
 <div>
 <!--START_SECTION:waka-->
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                152 commits         █████░░░░░░░░░░░░░░░░░░░░   19.41 % 
+🌆 Daytime                220 commits         ███████░░░░░░░░░░░░░░░░░░   28.10 % 
+🌃 Evening                348 commits         ███████████░░░░░░░░░░░░░░   44.44 % 
+🌙 Night                  63 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   91 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.62 % 
+Tuesday                  87 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+Wednesday                88 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.24 % 
+Thursday                 100 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.77 % 
+Friday                   101 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
+Saturday                 147 commits         █████░░░░░░░░░░░░░░░░░░░░   18.77 % 
+Sunday                   169 commits         █████░░░░░░░░░░░░░░░░░░░░   21.58 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Ho_Chi_Minh
+
+💬 Programming Languages: 
+C#                       5 hrs 32 mins       ████████████████████░░░░░   81.64 % 
+Godot Resource           46 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.37 % 
+GDShader                 9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
+Python                   6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
+INI                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
+
+🔥 Editors: 
+VS Code                  6 hrs 47 mins       █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+Winithm                  6 hrs 38 mins       ████████████████████████░   97.70 % 
+fratizy-app              7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
+Shakiri-Ayui             2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
+```
+
+**I Mostly Code in TypeScript** 
+
+```text
+TypeScript               5 repos             ████████░░░░░░░░░░░░░░░░░   31.25 % 
+C#                       2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+C++                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
+Rust                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
+Vue                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
+```
+
+
+
+
+ Last Updated on 30/05/2026 05:34:17 UTC
 <!--END_SECTION:waka-->
 </div>
 </p>
