@@ -104,8 +104,6 @@
 <br>
 <br>
 <h2>/ Activities /</h2>
-<br>
-<br>
 <div>
   <h3>$ Overview $</h3>
   <!--START_SECTION:general-->
