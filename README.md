@@ -100,9 +100,19 @@
 </table>
 <div align=center>
   <img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=nekitori17&theme=discord&row=1&column=7&margin-h=15&margin-w=5&no-frame=true&no-bg=false" alt="TROPHY">
-  <br>
-  <br>
-  <img width=100% src="https://github.com/nekitori17/nekitori17/blob/main/images/stat.svg" alt="Avinal WakaTime Activity">
+</div>
+<br>
+<br>
+<h2>/ Activities /</h2>
+<br>
+<br>
+<div align=center>
+  <h4>Overview</h4>
+  <!--START_SECTION:general-->
+  <!--END_SECTION:general-->
+  <h4>Details</h4>
+  <!--START_SECTION:details-->
+  <!--END_SECTION:details-->
 </div>
 </p>
 <div>
