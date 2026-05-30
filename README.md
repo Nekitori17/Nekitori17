@@ -109,7 +109,35 @@
 <div align=center>
   <h4>Overview</h4>
   <!--START_SECTION:general-->
-  <!--END_SECTION:general-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-202.37%20thousand%20lines%20of%20code-blue?style=flat)
+
+**🐱 My GitHub Data** 
+
+> 📦 12.2 kB Used in GitHub's Storage 
+ > 
+> 🏆 301 Contributions in the Year 2026
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 22 Public Repositories 
+ > 
+> 🔑 2 Private Repositories 
+ > 
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Ho_Chi_Minh
+```
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/Nekitori17/Nekitori17/main/assets/bar_graph.png)
+
+
+ Last Updated on 30/05/2026 04:01:53 UTC
+<!--END_SECTION:general-->
   <h4>Details</h4>
   <!--START_SECTION:details-->
   <!--END_SECTION:details-->
