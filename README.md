@@ -106,89 +106,15 @@
 <h2>/ Activities /</h2>
 <br>
 <br>
-<div align=center>
-  <h4>Overview</h4>
+<div>
+  <h3>Overview</h3>
   <!--START_SECTION:general-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-202.37%20thousand%20lines%20of%20code-blue?style=flat)
-
-**🐱 My GitHub Data** 
-
-> 📦 12.2 kB Used in GitHub's Storage 
- > 
-> 🏆 301 Contributions in the Year 2026
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 22 Public Repositories 
- > 
-> 🔑 2 Private Repositories 
- > 
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Ho_Chi_Minh
-```
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/Nekitori17/Nekitori17/main/assets/bar_graph.png)
-
-
- Last Updated on 30/05/2026 04:01:53 UTC
-<!--END_SECTION:general-->
-  <h4>Details</h4>
+  <!--END_SECTION:general-->
+  <h3>Details</h3>
   <!--START_SECTION:details-->
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                146 commits         █████░░░░░░░░░░░░░░░░░░░░   18.86 % 
-🌆 Daytime                217 commits         ███████░░░░░░░░░░░░░░░░░░   28.04 % 
-🌃 Evening                348 commits         ███████████░░░░░░░░░░░░░░   44.96 % 
-🌙 Night                  63 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Ho_Chi_Minh
-
-💬 Programming Languages: 
-C#                       5 hrs 32 mins       ████████████████████░░░░░   81.64 % 
-Godot Resource           46 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.37 % 
-GDShader                 9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
-Python                   6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
-INI                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
-
-🔥 Editors: 
-VS Code                  6 hrs 47 mins       █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-Winithm                  6 hrs 38 mins       ████████████████████████░   97.70 % 
-fratizy-app              7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
-Shakiri-Ayui             2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
-```
-
-**I Mostly Code in TypeScript** 
-
-```text
-TypeScript               5 repos             ████████░░░░░░░░░░░░░░░░░   31.25 % 
-C#                       2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-C++                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
-Rust                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
-Vue                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
-```
-
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/Nekitori17/Nekitori17/main/assets/bar_graph.png)
-
-
-<!--END_SECTION:details-->
+  
+  <!--END_SECTION:details-->
 </div>
 </p>
 <div>
