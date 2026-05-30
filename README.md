@@ -107,7 +107,7 @@
 <br>
 <br>
 <div>
-  <h3>Overview</h3>
+  <h3>$ Overview $</h3>
   <!--START_SECTION:general-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-821%20hrs%2022%20mins-blue?style=flat)
 
@@ -136,7 +136,7 @@
 
  Last Updated on 30/05/2026 04:16:06 UTC
 <!--END_SECTION:general-->
-  <h3>Details</h3>
+  <h3>$ Details $</h3>
   <!--START_SECTION:details-->
 **I'm a Night 🦉** 
 
