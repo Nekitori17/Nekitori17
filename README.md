@@ -109,8 +109,33 @@
 <div>
   <h3>Overview</h3>
   <!--START_SECTION:general-->
+![Code Time](http://img.shields.io/badge/Code%20Time-821%20hrs%2022%20mins-blue?style=flat)
 
-  <!--END_SECTION:general-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-202.37%20thousand%20lines%20of%20code-blue?style=flat)
+
+**🐱 My GitHub Data** 
+
+> 📦 12.2 kB Used in GitHub's Storage 
+ > 
+> 🏆 301 Contributions in the Year 2026
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 22 Public Repositories 
+ > 
+> 🔑 2 Private Repositories 
+ > 
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Ho_Chi_Minh
+```
+
+
+ Last Updated on 30/05/2026 04:16:06 UTC
+<!--END_SECTION:general-->
   <h3>Details</h3>
   <!--START_SECTION:details-->
   
