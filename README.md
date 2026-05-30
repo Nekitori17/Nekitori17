@@ -140,7 +140,55 @@
 <!--END_SECTION:general-->
   <h4>Details</h4>
   <!--START_SECTION:details-->
-  <!--END_SECTION:details-->
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                146 commits         █████░░░░░░░░░░░░░░░░░░░░   18.86 % 
+🌆 Daytime                217 commits         ███████░░░░░░░░░░░░░░░░░░   28.04 % 
+🌃 Evening                348 commits         ███████████░░░░░░░░░░░░░░   44.96 % 
+🌙 Night                  63 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Ho_Chi_Minh
+
+💬 Programming Languages: 
+C#                       5 hrs 32 mins       ████████████████████░░░░░   81.64 % 
+Godot Resource           46 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.37 % 
+GDShader                 9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
+Python                   6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
+INI                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
+
+🔥 Editors: 
+VS Code                  6 hrs 47 mins       █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+Winithm                  6 hrs 38 mins       ████████████████████████░   97.70 % 
+fratizy-app              7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
+Shakiri-Ayui             2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
+```
+
+**I Mostly Code in TypeScript** 
+
+```text
+TypeScript               5 repos             ████████░░░░░░░░░░░░░░░░░   31.25 % 
+C#                       2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+C++                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
+Rust                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
+Vue                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/Nekitori17/Nekitori17/main/assets/bar_graph.png)
+
+
+<!--END_SECTION:details-->
 </div>
 </p>
 <div>
