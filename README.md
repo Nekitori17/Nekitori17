@@ -109,21 +109,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                152 commits         █████░░░░░░░░░░░░░░░░░░░░   19.41 % 
-🌆 Daytime                220 commits         ███████░░░░░░░░░░░░░░░░░░   28.10 % 
-🌃 Evening                348 commits         ███████████░░░░░░░░░░░░░░   44.44 % 
-🌙 Night                  63 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 % 
+🌞 Morning                155 commits         █████░░░░░░░░░░░░░░░░░░░░   19.67 % 
+🌆 Daytime                220 commits         ███████░░░░░░░░░░░░░░░░░░   27.92 % 
+🌃 Evening                350 commits         ███████████░░░░░░░░░░░░░░   44.42 % 
+🌙 Night                  63 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.99 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   91 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.62 % 
-Tuesday                  87 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-Wednesday                88 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.24 % 
-Thursday                 100 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.77 % 
-Friday                   101 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
-Saturday                 147 commits         █████░░░░░░░░░░░░░░░░░░░░   18.77 % 
-Sunday                   169 commits         █████░░░░░░░░░░░░░░░░░░░░   21.58 % 
+Monday                   92 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.68 % 
+Tuesday                  87 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.04 % 
+Wednesday                88 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.17 % 
+Thursday                 100 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.69 % 
+Friday                   101 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.82 % 
+Saturday                 149 commits         █████░░░░░░░░░░░░░░░░░░░░   18.91 % 
+Sunday                   171 commits         █████░░░░░░░░░░░░░░░░░░░░   21.70 % 
 ```
 
 
@@ -133,19 +133,21 @@ Sunday                   169 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-C#                       5 hrs 32 mins       ████████████████████░░░░░   81.64 % 
-Godot Resource           46 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.37 % 
-GDShader                 9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
-Python                   6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
-INI                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
+YAML                     36 mins             ██████████░░░░░░░░░░░░░░░   38.14 % 
+C#                       23 mins             ██████░░░░░░░░░░░░░░░░░░░   24.69 % 
+Markdown                 21 mins             ██████░░░░░░░░░░░░░░░░░░░   22.08 % 
+Python                   6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.33 % 
+Other                    5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.31 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 47 mins       █████████████████████████   100.00 % 
+VS Code                  1 hr 21 mins        █████████████████████░░░░   84.17 % 
+Antigravityide           15 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.83 % 
 
 🐱‍💻 Projects: 
-Winithm                  6 hrs 38 mins       ████████████████████████░   97.70 % 
-fratizy-app              7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
-Shakiri-Ayui             2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
+Nekitori17               52 mins             ██████████████░░░░░░░░░░░   54.20 % 
+Winithm                  34 mins             █████████░░░░░░░░░░░░░░░░   36.10 % 
+fratizy-app              7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.38 % 
+Shakiri-Ayui             2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -161,7 +163,7 @@ Vue                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 30/05/2026 05:34:17 UTC
+ Last Updated on 01/06/2026 02:54:18 UTC
 <!--END_SECTION:waka-->
 </div>
 </p>
