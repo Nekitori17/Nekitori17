@@ -109,21 +109,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                155 commits         █████░░░░░░░░░░░░░░░░░░░░   19.67 % 
-🌆 Daytime                220 commits         ███████░░░░░░░░░░░░░░░░░░   27.92 % 
-🌃 Evening                350 commits         ███████████░░░░░░░░░░░░░░   44.42 % 
-🌙 Night                  63 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.99 % 
+🌞 Morning                177 commits         █████░░░░░░░░░░░░░░░░░░░░   20.61 % 
+🌆 Daytime                221 commits         ██████░░░░░░░░░░░░░░░░░░░   25.73 % 
+🌃 Evening                393 commits         ███████████░░░░░░░░░░░░░░   45.75 % 
+🌙 Night                  68 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.92 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   92 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.68 % 
-Tuesday                  87 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.04 % 
-Wednesday                88 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.17 % 
-Thursday                 100 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.69 % 
-Friday                   101 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.82 % 
-Saturday                 149 commits         █████░░░░░░░░░░░░░░░░░░░░   18.91 % 
-Sunday                   171 commits         █████░░░░░░░░░░░░░░░░░░░░   21.70 % 
+Monday                   96 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.18 % 
+Tuesday                  87 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.13 % 
+Wednesday                88 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.24 % 
+Thursday                 116 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.50 % 
+Friday                   120 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.97 % 
+Saturday                 174 commits         █████░░░░░░░░░░░░░░░░░░░░   20.26 % 
+Sunday                   178 commits         █████░░░░░░░░░░░░░░░░░░░░   20.72 % 
 ```
 
 
@@ -133,37 +133,38 @@ Sunday                   171 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-YAML                     36 mins             ██████████░░░░░░░░░░░░░░░   38.14 % 
-C#                       23 mins             ██████░░░░░░░░░░░░░░░░░░░   24.69 % 
-Markdown                 21 mins             ██████░░░░░░░░░░░░░░░░░░░   22.08 % 
-Python                   6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.33 % 
-Other                    5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.31 % 
+C#                       11 hrs 55 mins      █████████████████░░░░░░░░   69.44 % 
+Godot Resource           1 hr 48 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.57 % 
+XML                      1 hr 32 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.93 % 
+Other                    53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.17 % 
+Markdown                 23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
 
 🔥 Editors: 
-VS Code                  1 hr 21 mins        █████████████████████░░░░   84.17 % 
-Antigravityide           15 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.83 % 
+VS Code                  15 hrs 53 mins      ███████████████████████░░   92.46 % 
+Antigravityide           1 hr 17 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.54 % 
 
 🐱‍💻 Projects: 
-Nekitori17               52 mins             ██████████████░░░░░░░░░░░   54.20 % 
-Winithm                  34 mins             █████████░░░░░░░░░░░░░░░░   36.10 % 
-fratizy-app              7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.38 % 
-Shakiri-Ayui             2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
+Winithm.Core             12 hrs 47 mins      ███████████████████░░░░░░   74.47 % 
+Winithm.Client           3 hrs 28 mins       █████░░░░░░░░░░░░░░░░░░░░   20.21 % 
+Winithm.Native           38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
+Shakiri-Ayui             14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
+Winithm.Assets           1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 ```
 
-**I Mostly Code in TypeScript** 
+**I Mostly Code in C#** 
 
 ```text
-TypeScript               5 repos             ████████░░░░░░░░░░░░░░░░░   31.25 % 
-C#                       2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-C++                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
-Rust                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
-Vue                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
+C#                       5 repos             ███████░░░░░░░░░░░░░░░░░░   26.32 % 
+TypeScript               5 repos             ███████░░░░░░░░░░░░░░░░░░   26.32 % 
+C++                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+Rust                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+Vue                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
 ```
 
 
 
 
- Last Updated on 01/06/2026 02:54:18 UTC
+ Last Updated on 15/06/2026 02:58:05 UTC
 <!--END_SECTION:waka-->
 </div>
 </p>
