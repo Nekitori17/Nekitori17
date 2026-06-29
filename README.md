@@ -109,21 +109,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                177 commits         █████░░░░░░░░░░░░░░░░░░░░   20.61 % 
-🌆 Daytime                221 commits         ██████░░░░░░░░░░░░░░░░░░░   25.73 % 
-🌃 Evening                393 commits         ███████████░░░░░░░░░░░░░░   45.75 % 
-🌙 Night                  68 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.92 % 
+🌞 Morning                211 commits         █████░░░░░░░░░░░░░░░░░░░░   20.75 % 
+🌆 Daytime                281 commits         ███████░░░░░░░░░░░░░░░░░░   27.63 % 
+🌃 Evening                447 commits         ███████████░░░░░░░░░░░░░░   43.95 % 
+🌙 Night                  78 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.67 % 
 ```
-📅 **I'm Most Productive on Sunday** 
+📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   96 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.18 % 
-Tuesday                  87 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.13 % 
-Wednesday                88 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.24 % 
-Thursday                 116 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.50 % 
-Friday                   120 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.97 % 
-Saturday                 174 commits         █████░░░░░░░░░░░░░░░░░░░░   20.26 % 
-Sunday                   178 commits         █████░░░░░░░░░░░░░░░░░░░░   20.72 % 
+Monday                   119 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.70 % 
+Tuesday                  117 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.50 % 
+Wednesday                105 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.32 % 
+Thursday                 135 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.27 % 
+Friday                   145 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.26 % 
+Saturday                 199 commits         █████░░░░░░░░░░░░░░░░░░░░   19.57 % 
+Sunday                   197 commits         █████░░░░░░░░░░░░░░░░░░░░   19.37 % 
 ```
 
 
@@ -133,22 +133,22 @@ Sunday                   178 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-C#                       11 hrs 55 mins      █████████████████░░░░░░░░   69.44 % 
-Godot Resource           1 hr 48 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.57 % 
-XML                      1 hr 32 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.93 % 
-Other                    53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.17 % 
-Markdown                 23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
+Other                    20 hrs 28 mins      ██████████████░░░░░░░░░░░   55.29 % 
+C#                       14 hrs 9 mins       ██████████░░░░░░░░░░░░░░░   38.23 % 
+Godot Resource           44 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
+GDShader                 43 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
+Markdown                 23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
 
 🔥 Editors: 
-VS Code                  15 hrs 53 mins      ███████████████████████░░   92.46 % 
-Antigravityide           1 hr 17 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.54 % 
+Chrome                   20 hrs 3 mins       ██████████████░░░░░░░░░░░   54.16 % 
+Antigravity IDE          16 hrs 58 mins      ███████████░░░░░░░░░░░░░░   45.84 % 
 
 🐱‍💻 Projects: 
-Winithm.Core             12 hrs 47 mins      ███████████████████░░░░░░   74.47 % 
-Winithm.Client           3 hrs 28 mins       █████░░░░░░░░░░░░░░░░░░░░   20.21 % 
-Winithm.Native           38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
-Shakiri-Ayui             14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
-Winithm.Assets           1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+Winithm.Client           21 hrs 58 mins      ███████████████░░░░░░░░░░   59.36 % 
+Winithm.Core             12 hrs 16 mins      ████████░░░░░░░░░░░░░░░░░   33.16 % 
+Winithm.Native           1 hr 33 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 % 
+GodotPCKExplorer         39 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
+Winithm.Assets           10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
 ```
 
 **I Mostly Code in C#** 
@@ -164,7 +164,7 @@ Vue                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 15/06/2026 02:58:05 UTC
+ Last Updated on 29/06/2026 02:45:45 UTC
 <!--END_SECTION:waka-->
 </div>
 </p>
