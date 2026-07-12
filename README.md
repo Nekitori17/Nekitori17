@@ -122,7 +122,7 @@
 </div>
 <p align="center">
 <h2>/ Github Stats /</h2>
-<table align="center">`
+<table align="center">
   <tr border="none">
     <td width="50%" align="center">
       <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=nekitori17&show_icons=true&theme=onedark&hide_border=true" width="100%" alt="GitHub Stats" />
