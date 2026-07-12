@@ -10,14 +10,15 @@
   <td valign="top">
   <h4>< Info ></h4>
   <ul>
-    <li>💻 <kbd>$LEVEL$:</kbd> Junior Developer.</li>
-    <li>🪑 <kbd>$ROLE$:</kbd> Game Dev, FullStack Dev, <del>Producer</del></li>
-    <li>👤 <kbd>$NAME$:</kbd> Nguyen Ngoc Cuong </li>
-    <li>👥 <kbd>$AGE$:</kbd> 17 </li>
-    <li>🕵️ <kbd>$STUDYING$:</kbd> High school </li>
-    <li>🔭 <kbd>$WORK$:</kbd> A rhythm game and a bot discord</li>
-    <li>🌱 <kbd>$LEARNING$:</kbd> SvelteKit</li>
-    <li>⚡ <kbd>$LIKE$:</kbd> Listening to music, playing game (especially rhythm games), watching anime ...and coding of course</li>
+    <li>👤 <kbd>NAME:</kbd> Nguyen Ngoc Cuong </li>
+    <li>👥 <kbd>AGE:</kbd> 17 </li>
+    <li>🌏 <kbd>LOCATION:</kbd> Viet Nam </li>
+    <li>💻 <kbd>LEVEL:</kbd> Junior Developer.</li>
+    <li>🪑 <kbd>ROLE:</kbd> Game Dev, FullStack Dev, <del>Producer</del></li>
+    <li>🕵️ <kbd>STUDYING:</kbd> High school </li>
+    <li>🔭 <kbd>WORK:</kbd> Open Source Contributor</li>
+    <li>🌱 <kbd>LEARNING:</kbd> SvelteKit</li>
+    <li>⚡ <kbd>LIKE:</kbd> Listening to music, playing game (especially rhythm games), watching anime ...and coding of course</li>
   </ul>
   <td align="center" valign="middle">
     <img src="./images/malkuth.png" alt="malkuth" title="Malkuth">
@@ -31,7 +32,7 @@
     <p>- Nekitori17</p>
     </blockquote>
   </td>
-  <td>
+  <td width="35%">
     <h4>< Social ></h4>
     <img src="https://komarev.com/ghpvc/?username=Nekitori17&label=Profile%20views&color=orange&style=for-the-badge" alt="Profile Views" />
     <br>
@@ -54,6 +55,8 @@
 <div>
   <h2>/ Skills /</h2>
   <p style="display: inline-block;" align="center">
+    A passionate developer with experience spanning front-end and back-end web development, database management, multiple programming languages, and creative tools. Here is a breakdown of my technical toolkit:
+    <br><br>
     <kbd>
       <kbd>Front-End</kbd>
       <br>
@@ -115,7 +118,8 @@
       <kbd>Creation Tools</kbd>
       <br>
       <br>
-      <img width="60px" src="./images/reaper.png" alt="rpp" title="REAPER">
+      <img width="35px" src="./images/affinity.svg" alt="affinity" title="Affinity">
+      <img width="60px" src="./images/reaper.png" alt="reaper" title="REAPER">
       <img width="40px" src="./images/studio-one-pro.png" alt="studiotone" title="Studio One">
     </kbd>
   </p>
@@ -140,13 +144,27 @@
 </div>
 <br>
 <br>
+<details>
+<summary>
 <h2>/ Activities /</h2>
+</summary>
 <div>
-  <img width="100%" src="wakatime/stats.svg?v=20260712"/>
+<table>
+<tr>
+  <td width="50%" align="center">
+  <img width="100%" src="wakatime/stats.svg?v=1"/>
+  </td>
+  <td width="50%" align="center">
+  <img width="100%" src="https://github-pr-stats-five.vercel.app/api/github-pr-stats?username=nekitori17"/>
+  <img width="100%" src="https://badges.pufler.dev/last-stars/nekitori17"/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nekitori17&theme=xcode&area=true&hide_border=true" width="100%" />
-</div>
+  </td>
+</tr>
+</table>
+</details>
 <hr>
-<footer align="center">
+<h2>/ Quotation /</h2>
+<div align="center">
 <img width="100%" src="https://github-readme-quotes-bay.vercel.app/quote?theme=onedark" alt="random quote">
-</footer>
+</div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
