@@ -17,10 +17,10 @@
     <li>🕵️ <kbd>$STUDYING$:</kbd> High school </li>
     <li>🔭 <kbd>$WORK$:</kbd> A rhythm game and a bot discord</li>
     <li>🌱 <kbd>$LEARNING$:</kbd> SvelteKit</li>
-    <li>⚡ <kbd>$LIKE$</kbd> Listening to music, playing game (especially rhythm games), watching anime ...and coding of course</li>
+    <li>⚡ <kbd>$LIKE$:</kbd> Listening to music, playing game (especially rhythm games), watching anime ...and coding of course</li>
   </ul>
   <td align="center" valign="middle">
-    <img height="50%" src="./images/malkuth.png" alt="malkuth" title="Malkuth">
+    <img src="./images/malkuth.png" alt="malkuth" title="Malkuth">
   </td>
 </tr>
 <tr>
