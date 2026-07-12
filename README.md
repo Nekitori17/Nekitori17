@@ -152,7 +152,7 @@
 <table>
 <tr>
   <td width="50%" align="center">
-  <img width="100%" src="wakatime/stats.svg?v=1"/>
+  <img width="100%" src="wakatime/stats.svg?v=20260712"/>
   </td>
   <td width="50%" align="center">
   <img width="100%" src="https://github-pr-stats-five.vercel.app/api/github-pr-stats?username=nekitori17"/>
