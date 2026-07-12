@@ -1,20 +1,54 @@
 <br>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&weight=600&size=16&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=%F0%9F%91%8B+What's+Up+Guy!;I%27m+Nekitori17;Also+is+Nguyen+Ngoc+Cuong;Welcome+to+my+Github+Profile" width="100%">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=600&size=16&duration=3000&pause=500&center=true&vCenter=true&width=500&lines=%F0%9F%91%8B+What's+Up+Guy!;I%27m+Nekitori17;Also+is+Nguyen+Ngoc+Cuong;Welcome+to+my+Github+Profile" width="100%">
+  <kbd>[STATUS]: Alive 💖 | [MODE]: Coding 💻 & Get High 🎧 | [ITEMS]: Caffeine ☕ & Cookie 🍪</kbd>
 </p>
 <hr>
-<section>
-  <h2 align="center">/ About Me / </h2>
+<h2>/ About Me / </h2>
+<table>
+<tr>
+  <td valign="top">
+  <h4>< Info ></h4>
   <ul>
-    <li>💻 A Junior Developer.</li>
-    <li>🕵️ Studying in high school </li>
-    <li>🔭 I’m currently working on my Discord Bot</li>
-    <li>🌱 I’m currently learning Godot, SvelteJS</li>
-    <li>👯 I’m looking to collaborate on front-end and back-end projects</li>
-    <li>📫 How to reach me: <a href="mailto:plinkatsu1337@gmail.com">plinkatsu1337@gmail.com</a></li>
-    <li>⚡ What I like to do: I like so much listen to music, playing game (especially rhythm games), watching anime ...and coding of course</li>
+    <li>💻 <kbd>$LEVEL$:</kbd> Junior Developer.</li>
+    <li>🪑 <kbd>$ROLE$:</kbd> Game Dev, FullStack Dev, <del>Producer</del></li>
+    <li>👤 <kbd>$NAME$:</kbd> Nguyen Ngoc Cuong </li>
+    <li>👥 <kbd>$AGE$:</kbd> 17 </li>
+    <li>🕵️ <kbd>$STUDYING$:</kbd> High school </li>
+    <li>🔭 <kbd>$WORK$:</kbd> A rhythm game and a bot discord</li>
+    <li>🌱 <kbd>$LEARNING$:</kbd> SvelteKit</li>
+    <li>⚡ <kbd>$LIKE$</kbd> Listening to music, playing game (especially rhythm games), watching anime ...and coding of course</li>
   </ul>
-</section>
+  <br>
+  <h4>< Qoute ></h4>
+  <blockquote valign="middle">
+  <i>"Imagine having more tech debt than your monthly Claude limit."</i>
+  <p>- Nekitori17</p>
+  </blockquote>
+  <br>
+  <div valign="bottom">
+  <h4>< Social ></h4>
+  <img src="https://komarev.com/ghpvc/?username=Nekitori17&label=Profile%20views&color=orange&style=for-the-badge" alt="Profile Views" />
+  <br>
+  <a href="https://facebook.com/nekitorihakari"><img src="https://img.shields.io/badge/Facebook-5865F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=0B1021&color=3fffff" 
+    title = "nekitorihakari" alt="facebook" /></a>
+  <a href="https://youtube.com/@plinkatsu"><img src="https://img.shields.io/badge/Youtube-5865F2?style=for-the-badge&logo=youtube&logoColor=white&labelColor=0B1021&color=ff6565" 
+    title = "@plinkatsu" alt="youtube" /></a>
+  <a href="https://discord.com/users/1032626223307829289"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=0B1021&color=6694ff" 
+    title = "nekitorihakari" alt="discord" /></a>
+  <a href="mailto:plinkatsu1337@gmail.com"><img src="https://img.shields.io/badge/Gmail-5865F2?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0B1021&color=ffa16f" 
+    title = "plinkatsu1337@gmail.com" alt="gmail" /></a>
+  <a href="https://x.com/plinkatsu"><img src="https://img.shields.io/badge/X(Twitter)-5865F2?style=for-the-badge&logo=x&logoColor=white&labelColor=0B1021&color=000000" 
+    title = "plinkatsu" alt="x(twitter)" /></a>
+  <a href="https://www.linkedin.com/in/plinkatsu/"><img src="https://img.shields.io/badge/LinkedIn-5865F2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0B1021&color=1E40AF" 
+    title = "Cuong Nguyen" alt="linkedin" /></a>
+  </div>
+  </td>
+  <td align="center" valign="middle">
+    <img height="75%" src="./images/malkuth.png" alt="malkuth" title="Malkuth">
+  </td>
+</tr>
+</table>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <div>
   <h2>/ Skills /</h2>
@@ -70,28 +104,29 @@
       <br>
       <br>
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="vscode" title="VSCode">
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" alt="godotengine" title="Godot Engine">
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" alt="win11" title="Window 11">
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="linux" title="Linux">
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-plain.svg" alt="linux" title="android">
     </kbd>
     </kbd>
     <kbd>
-      <kbd>Additional</kbd>
+      <kbd>Creation Tools</kbd>
       <br>
       <br>
-      <img width="40px" src="./images/flm.png" alt="flm" title="FL Studio Mobile">
       <img width="40px" src="./images/reaper.png" alt="rpp" title="REAPER">
+      <img width="40px" src="./images/studio-one-pro.png" alt="studiotone" title="Studio One">
     </kbd>
   </p>
 </div>
 <p align="center">
 <h2>/ Github Stats /</h2>
-<table align="center">
+<table align="center">`
   <tr border="none">
     <td width="50%" align="center">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=Nekitori17&theme=onedark&hide_border=true&include_all_commits=true&count_private=true" />
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=nekitori17&show_icons=true&theme=onedark&hide_border=true" width="100%" alt="GitHub Stats" />
       <br></br>
-      <img alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Nekitori17&theme=onedark&hide_border=true">
+      <img alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Nekitori17&theme=onedark&hide_border=true" />
     </td>
     <td width="50%" align="center">
       <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=nekitori17&theme=onedark&hide_border=true&include_all_commits=true&count_private=true&langs_count=7">
@@ -99,83 +134,15 @@
   </tr>
 </table>
 <div align=center>
-  <img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=nekitori17&theme=discord&row=1&column=7&margin-h=15&margin-w=5&no-frame=true&no-bg=false" alt="TROPHY">
+<img src="https://github-trophies.vercel.app/?username=nekitori17&theme=onedark&no-frame=true&row=2&column=6&margin-h=15&margin-w=5&no-frame=true&no-bg=false" width="100%" />
+
 </div>
 <br>
 <br>
 <h2>/ Activities /</h2>
 <div>
-<!--START_SECTION:waka-->
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                203 commits         █████░░░░░░░░░░░░░░░░░░░░   19.86 % 
-🌆 Daytime                287 commits         ███████░░░░░░░░░░░░░░░░░░   28.08 % 
-🌃 Evening                452 commits         ███████████░░░░░░░░░░░░░░   44.23 % 
-🌙 Night                  80 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.83 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   118 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.55 % 
-Tuesday                  134 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.11 % 
-Wednesday                106 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.37 % 
-Thursday                 135 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.21 % 
-Friday                   145 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.19 % 
-Saturday                 191 commits         █████░░░░░░░░░░░░░░░░░░░░   18.69 % 
-Sunday                   193 commits         █████░░░░░░░░░░░░░░░░░░░░   18.88 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Ho_Chi_Minh
-
-💬 Programming Languages: 
-Other                    24 hrs 45 mins      ███████████████░░░░░░░░░░   58.43 % 
-C#                       14 hrs 45 mins      █████████░░░░░░░░░░░░░░░░   34.86 % 
-Markdown                 1 hr 37 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 % 
-Godot Resource           41 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
-GDShader                 23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
-
-🔥 Editors: 
-Chrome                   24 hrs 19 mins      ██████████████░░░░░░░░░░░   57.42 % 
-Antigravity IDE          18 hrs 2 mins       ███████████░░░░░░░░░░░░░░   42.58 % 
-
-🐱‍💻 Projects: 
-Winithm.Client           23 hrs 22 mins      ██████████████░░░░░░░░░░░   55.20 % 
-Winithm.Core             16 hrs 29 mins      ██████████░░░░░░░░░░░░░░░   38.92 % 
-Winithm.Native           55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
-GodotPCKExplorer         39 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
-Winithm.Assets           23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
-```
-
-**I Mostly Code in C#** 
-
-```text
-C#                       5 repos             ███████░░░░░░░░░░░░░░░░░░   26.32 % 
-TypeScript               5 repos             ███████░░░░░░░░░░░░░░░░░░   26.32 % 
-C++                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
-Rust                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
-Vue                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
-```
-
-
-
-
- Last Updated on 01/07/2026 02:46:08 UTC
-<!--END_SECTION:waka-->
-</div>
-</p>
-<div>
-  <h2>/ Social Media /</h2>
-  <ul>
-    <li><a href="https://facebook.com/nekitorihakari"><img src="https://img.shields.io/badge/nekitorihakari-%23323330?style=for-the-badge&logo=facebook&label=Facebook&logoColor=0866FF" alt="Facebook"></a></li>
-    <li><a href="https://youtube.com/@plinkatsu"><img src="https://img.shields.io/badge/@plinkatsu-%23323330?style=for-the-badge&logo=youtube&label=YouTube&logoColor=FF0000" alt="YouTube"></a></li>
-    <li><a href="https://discord.com/users/1032626223307829289"><img src="https://img.shields.io/badge/nekitorihakari-%23323330?style=for-the-badge&logo=discord&label=Discord&logoColor=5865F2" alt="Discord"></a></li>
-    <li><a href="mailto:plinkatsu1337@gmail.com"><img src="https://img.shields.io/badge/plinkatsu1337@gmail.com-%23323330?style=for-the-badge&logo=gmail&label=Gmail&logoColor=EA4335" alt="Gmail"></a></li>
-  </ul>
+  <img src="wakatime/stats.svg?v=1"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nekitori17&theme=xcode&area=true&hide_border=true" width="100%" />
 </div>
 <hr>
 <footer align="center">
