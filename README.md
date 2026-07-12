@@ -142,7 +142,7 @@
 <br>
 <h2>/ Activities /</h2>
 <div>
-  <img width="100%" src="wakatime/stats.svg?v=1"/>
+  <img width="100%" src="wakatime/stats.svg?v=20260712"/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nekitori17&theme=xcode&area=true&hide_border=true" width="100%" />
 </div>
 <hr>
