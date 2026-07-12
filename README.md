@@ -148,19 +148,11 @@
 <summary>
 <h2>/ Activities /</h2>
 </summary>
-<div>
-<table>
-<tr>
-  <td width="50%" align="center">
-  <img width="100%" src="wakatime/stats.svg?v=20260712"/>
-  </td>
-  <td width="50%" align="center">
+<div width="100%" align="center">
+  <img width="100%" src="wakatime/stats.svg?v=1"/>
   <img width="100%" src="https://github-pr-stats-five.vercel.app/api/github-pr-stats?username=nekitori17"/>
-  <img width="100%" src="https://badges.pufler.dev/last-stars/nekitori17"/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nekitori17&theme=xcode&area=true&hide_border=true" width="100%" />
-  </td>
-</tr>
-</table>
+</div>
 </details>
 <hr>
 <h2>/ Quotation /</h2>
