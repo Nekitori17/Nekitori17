@@ -1,6 +1,6 @@
 <br>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=600&size=16&duration=3000&pause=500&center=true&vCenter=true&width=500&lines=%F0%9F%91%8B+What's+Up+Guy!;I%27m+Nekitori17;Also+is+Nguyen+Ngoc+Cuong;Welcome+to+my+Github+Profile" width="100%">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=600&size=16&duration=2000&pause=1000&center=true&vCenter=true&width=350&lines=%F0%9F%91%8B+What's+Up+Guy!;I%27m+Nekitori17;Also+is+Nguyen+Ngoc+Cuong;Welcome+to+my+Github+Profile" width="100%">
   <kbd>[STATUS]: Alive 💖 | [MODE]: Coding 💻 & Get High 🎧 | [ITEMS]: Caffeine ☕ & Cookie 🍪</kbd>
 </p>
 <hr>
@@ -142,7 +142,7 @@
 <br>
 <h2>/ Activities /</h2>
 <div>
-  <img width="100%" src="wakatime/stats.svg?v=20260712"/>
+  <img width="100%" src="wakatime/stats.svg?v=1"/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nekitori17&theme=xcode&area=true&hide_border=true" width="100%" />
 </div>
 <hr>
