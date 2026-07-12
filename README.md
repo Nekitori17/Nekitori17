@@ -19,33 +19,34 @@
     <li>🌱 <kbd>$LEARNING$:</kbd> SvelteKit</li>
     <li>⚡ <kbd>$LIKE$</kbd> Listening to music, playing game (especially rhythm games), watching anime ...and coding of course</li>
   </ul>
-  <br>
-  <h4>< Qoute ></h4>
-  <blockquote valign="middle">
-  <i>"Imagine having more tech debt than your monthly Claude limit."</i>
-  <p>- Nekitori17</p>
-  </blockquote>
-  <br>
-  <div valign="bottom">
-  <h4>< Social ></h4>
-  <img src="https://komarev.com/ghpvc/?username=Nekitori17&label=Profile%20views&color=orange&style=for-the-badge" alt="Profile Views" />
-  <br>
-  <a href="https://facebook.com/nekitorihakari"><img src="https://img.shields.io/badge/Facebook-5865F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=0B1021&color=3fffff" 
-    title = "nekitorihakari" alt="facebook" /></a>
-  <a href="https://youtube.com/@plinkatsu"><img src="https://img.shields.io/badge/Youtube-5865F2?style=for-the-badge&logo=youtube&logoColor=white&labelColor=0B1021&color=ff6565" 
-    title = "@plinkatsu" alt="youtube" /></a>
-  <a href="https://discord.com/users/1032626223307829289"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=0B1021&color=6694ff" 
-    title = "nekitorihakari" alt="discord" /></a>
-  <a href="mailto:plinkatsu1337@gmail.com"><img src="https://img.shields.io/badge/Gmail-5865F2?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0B1021&color=ffa16f" 
-    title = "plinkatsu1337@gmail.com" alt="gmail" /></a>
-  <a href="https://x.com/plinkatsu"><img src="https://img.shields.io/badge/X(Twitter)-5865F2?style=for-the-badge&logo=x&logoColor=white&labelColor=0B1021&color=000000" 
-    title = "plinkatsu" alt="x(twitter)" /></a>
-  <a href="https://www.linkedin.com/in/plinkatsu/"><img src="https://img.shields.io/badge/LinkedIn-5865F2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0B1021&color=1E40AF" 
-    title = "Cuong Nguyen" alt="linkedin" /></a>
-  </div>
-  </td>
   <td align="center" valign="middle">
-    <img height="75%" src="./images/malkuth.png" alt="malkuth" title="Malkuth">
+    <img height="50%" src="./images/malkuth.png" alt="malkuth" title="Malkuth">
+  </td>
+</tr>
+<tr>
+  <td>
+    <h4>< Qoute ></h4>
+    <blockquote valign="middle">
+    <i>"Imagine having more tech debt than your monthly Claude limit."</i>
+    <p>- Nekitori17</p>
+    </blockquote>
+  </td>
+  <td>
+    <h4>< Social ></h4>
+    <img src="https://komarev.com/ghpvc/?username=Nekitori17&label=Profile%20views&color=orange&style=for-the-badge" alt="Profile Views" />
+    <br>
+    <a href="https://facebook.com/nekitorihakari"><img src="https://img.shields.io/badge/Facebook-5865F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=0B1021&color=3fffff" 
+      title = "nekitorihakari" alt="facebook" /></a>
+    <a href="https://youtube.com/@plinkatsu"><img src="https://img.shields.io/badge/Youtube-5865F2?style=for-the-badge&logo=youtube&logoColor=white&labelColor=0B1021&color=ff6565" 
+      title = "@plinkatsu" alt="youtube" /></a>
+    <a href="https://discord.com/users/1032626223307829289"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=0B1021&color=6694ff" 
+      title = "nekitorihakari" alt="discord" /></a>
+    <a href="mailto:plinkatsu1337@gmail.com"><img src="https://img.shields.io/badge/Gmail-5865F2?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0B1021&color=ffa16f" 
+      title = "plinkatsu1337@gmail.com" alt="gmail" /></a>
+    <a href="https://x.com/plinkatsu"><img src="https://img.shields.io/badge/X(Twitter)-5865F2?style=for-the-badge&logo=x&logoColor=white&labelColor=0B1021&color=000000" 
+      title = "plinkatsu" alt="x(twitter)" /></a>
+    <a href="https://www.linkedin.com/in/plinkatsu/"><img src="https://img.shields.io/badge/LinkedIn-5865F2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0B1021&color=1E40AF" 
+      title = "Cuong Nguyen" alt="linkedin" /></a>
   </td>
 </tr>
 </table>
@@ -114,7 +115,7 @@
       <kbd>Creation Tools</kbd>
       <br>
       <br>
-      <img width="40px" src="./images/reaper.png" alt="rpp" title="REAPER">
+      <img width="60px" src="./images/reaper.png" alt="rpp" title="REAPER">
       <img width="40px" src="./images/studio-one-pro.png" alt="studiotone" title="Studio One">
     </kbd>
   </p>
@@ -141,7 +142,7 @@
 <br>
 <h2>/ Activities /</h2>
 <div>
-  <img src="wakatime/stats.svg?v=20260712"/>
+  <img width="100%" src="wakatime/stats.svg?v=20260712"/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nekitori17&theme=xcode&area=true&hide_border=true" width="100%" />
 </div>
 <hr>
