@@ -125,7 +125,7 @@
 <table align="center">`
   <tr border="none">
     <td width="50%" align="center">
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=nekitori17&show_icons=true&theme=onedark&hide_border=true" width="100%" alt="GitHub Stats" />
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=nekitori17&show_icons=true&theme=onedark&hide_border=true&include_all_commits=true&count_private=true" width="100%" alt="GitHub Stats" />
       <br></br>
       <img alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Nekitori17&theme=onedark&hide_border=true" />
     </td>
