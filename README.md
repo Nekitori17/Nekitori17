@@ -118,9 +118,9 @@
       <kbd>Creation Tools</kbd>
       <br>
       <br>
-      <img width="35px" src="./images/affinity.svg" alt="affinity" title="Affinity">
-      <img width="60px" src="./images/reaper.png" alt="reaper" title="REAPER">
-      <img width="40px" src="./images/studio-one-pro.png" alt="studiotone" title="Studio One">
+      <img width="30px" src="./images/affinity.svg" alt="affinity" title="Affinity">
+      <img width="55px" src="./images/reaper.png" alt="reaper" title="REAPER">
+      <img width="35px" src="./images/studio-one-pro.png" alt="studiotone" title="Studio One">
     </kbd>
   </p>
 </div>
