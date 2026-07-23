@@ -17,7 +17,7 @@
     <li>🪑 <kbd>ROLE:</kbd> Game Dev, FullStack Dev, <del>Producer</del></li>
     <li>🕵️ <kbd>STUDYING:</kbd> High school </li>
     <li>🔭 <kbd>WORK:</kbd> Open Source Contributor</li>
-    <li>🌱 <kbd>LEARNING:</kbd> SvelteKit</li>
+    <li>🌱 <kbd>LEARNING:</kbd> SvelteKit, Music Production</li>
     <li>⚡ <kbd>LIKE:</kbd> Listening to music, playing game (especially rhythm games), watching anime ...and coding of course</li>
   </ul>
   <td align="center" valign="middle">
@@ -120,7 +120,6 @@
       <br>
       <img width="30px" src="./images/affinity.svg" alt="affinity" title="Affinity">
       <img width="55px" src="./images/reaper.png" alt="reaper" title="REAPER">
-      <img width="35px" src="./images/studio-one-pro.png" alt="studiotone" title="Studio One">
     </kbd>
   </p>
 </div>
