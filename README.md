@@ -21,7 +21,7 @@
     <li>⚡ <kbd>LIKE:</kbd> Listening to music, playing game (especially rhythm games), watching anime ...and coding of course</li>
   </ul>
   <td align="center" valign="middle">
-    <img src="./images/malkuth.png" alt="malkuth" title="Malkuth">
+    <img src="./images/nekitori17.png" alt="nekitori17" title="nekitori17">
   </td>
 </tr>
 <tr>
@@ -145,7 +145,7 @@
 <br>
 <details>
 <summary>
-<h2>/ Activities /</h2>
+<h2>/ Activities / (Click to view)</h2>
 </summary>
 <div width="100%" align="center">
   <img width="100%" src="wakatime/stats.svg?v=20260715"/>
