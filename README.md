@@ -148,7 +148,7 @@
 <h2>/ Activities / (Click to view)</h2>
 </summary>
 <div width="100%" align="center">
-  <img width="100%" src="wakatime/stats.svg?v=20260729"/>
+  <img width="100%" src="wakatime/stats.svg?v=20260801"/>
   <img width="100%" src="https://github-pr-stats-five.vercel.app/api/github-pr-stats?username=nekitori17"/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nekitori17&theme=xcode&area=true&hide_border=true" width="100%" />
 </div>
