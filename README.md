@@ -17,7 +17,7 @@
     <li>🪑 <kbd>ROLE:</kbd> Game Dev, FullStack Dev, <del>Producer</del></li>
     <li>🕵️ <kbd>STUDYING:</kbd> High school </li>
     <li>🔭 <kbd>WORK:</kbd> Open Source Contributor</li>
-    <li>🌱 <kbd>LEARNING:</kbd> SvelteKit, Music Production</li>
+    <li>🌱 <kbd>LEARNING:</kbd> SvelteKit, Reverse engineering, Music Production</li>
     <li>⚡ <kbd>LIKE:</kbd> Listening to music, playing game (especially rhythm games), watching anime ...and coding of course</li>
   </ul>
   <td align="center" valign="middle">
@@ -71,8 +71,6 @@
       <br>
       <br>
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="node" title="NodeJS">
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bun/bun-original.svg" alt="bun" title="BunJS">
-      <img width="30px" src="./images/flask-modified.svg" alt="flask" title="Flask">
       <img width="30px" src="./images/nitrojs.svg" alt="nitro" title="NitroJS">
     </kbd>
     <kbd>
@@ -92,7 +90,6 @@
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="py" title="Python">
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="js" title="JavaScript">
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="ts" title="TypeScript">
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" alt="lua" title="Lua">
     </kbd>
     <kbd>
       <kbd>Tools</kbd>
@@ -110,7 +107,6 @@
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="vscode" title="VSCode">
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" alt="godotengine" title="Godot Engine">
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" alt="win11" title="Window 11">
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="linux" title="Linux">
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-plain.svg" alt="linux" title="android">
     </kbd>
     </kbd>
